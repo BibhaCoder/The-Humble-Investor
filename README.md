@@ -1,5 +1,5 @@
-5 Key characteristics of a humble investor:
-===========================================
+The humble investor
+===================
 
 Investing field is quite complex and challenging and pretending to know everything in the world of investing is trying to fool yourself and achieve mediocre returns and under perform S&P/VTI . There is so much noise and distractions in the world of investment that a common investor can easily get distracted and make huge mistakes. Primary purpose of this article is to teach individual small investors on how to take the field of investment with humility and achieve market beating returns in long run.
 
