@@ -17,7 +17,7 @@ After reading above 3 book I have found that in modern world the field of stock 
 
 2) Passively managed (should track an index)
 
-3) Highly concentrated (should have ~100 securities)
+3) Highly concentrated (should have ~100 securities for any given market cap type for example micro, small, mid and large market caps so a multi cap innovative growth ETF may contain ~400 to ~500 securities considering ~100 securities for each type of market cap)
 
 4) Innovation (should hold innovative businesses)
 
