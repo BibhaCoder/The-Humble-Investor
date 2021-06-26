@@ -35,7 +35,7 @@ I was able to achieve this investing insight only because I was sitting on the s
 
 3) Phil Fisher
 
-We should be very careful on whom want to be imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of nurturing and cultivating growth mindset and 24 human character strengths to be a better human for our society in every aspect:
+We should be very careful on whom want to be imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of nurturing and cultivating growth mindset and 24 human character strengths to be a better human for our family and our society in every aspect:
 
 24 character strengths for being a better human  being:
 
