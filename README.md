@@ -35,9 +35,16 @@ I was able to achieve this investing insight only because I was sitting on the s
 
 3) Phil Fisher
 
-We should be very careful on whom want to be imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of nurturing and cultivating growth mindset and 24 human character strengths to be a better human for our family and our society in every aspect:
+We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
 
-24 character strengths for being a better human  being:
+1) A long life
+2) Filled with health
+3) Filled with wealth and
+4) Filled with wisdom
+
+For a successful human life we should focus on nurturing and cultivating growth mindset and all 24 human character strengths to be a better human for our family and our society in every aspect:
+
+24 character strengths to cultivate for being a better human  being are:
 
 1) Wisdom: Creativity, Curiosity, Judgement, Love of learning, Perspective
 2) Courage: Bravery, Perserverence, Honesty, Zest
