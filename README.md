@@ -17,11 +17,11 @@ After reading above 3 book I have found that in modern world the field of stock 
 
 2) Passively managed (should track an index)
 
-3) Highly concentrated (should be focused on growth and innovation and spread across different sectors)
+3) Highly concentrated (should not be overly diversified)
 
-4) Innovation (should hold innovative businesses)
+4) Innovation (should be focused on holding innovative businesses)
 
-5) Growth (should hold growing business)
+5) Growth (should be focused on holding growing business)
 
 Instead of doing speculation and trying to invest in risky and speculative securities/assets a humble investor should look for above 5 characteristics in ETFs and invest in them for long term. A humble investor’s ETF must have expense ration <= 0.20. It should also be passively managed to avoid human emotion trigerred mistakes and improve tax efficiency by avoiding frequent turn overs. A humble investor’s ETF should also be highly concentrated in a sense it should not be over diversified and focused on innovative and growing businesses. Innovation and growth are key for long term success of any business so look for ETFs which are made of innovative and growing businesses.
 
