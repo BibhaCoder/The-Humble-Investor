@@ -17,13 +17,13 @@ After reading above 3 book I have found that in modern world the field of stock 
 
 2) Passively managed (should track an index)
 
-3) Highly concentrated (should have ~30 to ~100 securities for any given market cap type for example micro, small, mid, large and mega market caps so a multi cap innovative growth ETF may contain ~150 to ~500 securities considering ~30 to ~100 securities for each type of market cap)
+3) Highly concentrated (should have ~30 to ~250 securities for any given market cap type for example micro, small, mid, large and mega market caps so a multi cap innovative growth ETF may contain ~150 to ~750 securities considering ~30 to ~100 securities for each type of market cap)
 
 4) Innovation (should hold innovative businesses)
 
 5) Growth (should hold growing business)
 
-Instead of doing speculation and trying to invest in risky and speculative securities/assets a humble investor should look for above 5 characteristics in ETFs and invest in them for long term. A humble investor’s ETF must have expense ration <= 0.20. It should also be passively managed to avoid human emotion trigerred mistakes and improve tax efficiency by avoiding frequent turn overs. A humble investor’s ETF should also be highly concentrated(~30 to ~100 businesses in ETF for a given market cap) in a sense it should not be over diversified and focused on innovative and growing businesses. Innovation and growth are key for long term success of any business so look for ETFs which are made of innovative and growing businesses.
+Instead of doing speculation and trying to invest in risky and speculative securities/assets a humble investor should look for above 5 characteristics in ETFs and invest in them for long term. A humble investor’s ETF must have expense ration <= 0.20. It should also be passively managed to avoid human emotion trigerred mistakes and improve tax efficiency by avoiding frequent turn overs. A humble investor’s ETF should also be highly concentrated(~30 to ~250 businesses in ETF for a given market cap) in a sense it should not be over diversified and focused on innovative and growing businesses. Innovation and growth are key for long term success of any business so look for ETFs which are made of innovative and growing businesses.
 
 A humble investor does not need 5, 10 to 15 to 20 ETFs to get proper diversification. Only 3 ETFs are good enough for a humble investor to achieve long term market beating returns. And finally holding period for a humble investor should be forever :)
 
