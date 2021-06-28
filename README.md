@@ -1,7 +1,7 @@
 The Humble Investor
 ===================
 
-Investing field is quite complex and challenging and pretending to know everything in the world of investing is trying to fool yourself and achieve mediocre returns and drastically under perform market(VOO/VTI). There is so much noise and distractions in the world of investment that a common investor can easily get distracted and make huge mistakes. Primary purpose of this article is to teach individual small investors on how to take the field of investment with humility and simplicity to achieve market beating returns in long run.
+Investing field is quite complex and challenging and pretending to know everything in the world of investing is trying to fool yourself and achieve mediocre returns and drastically under perform market(VOO/VTI) in long run. There is so much noise and distractions in the world of investment that a common investor can easily get distracted and make huge mistakes. Primary purpose of this article is to teach individual small investors on how to take the field of investment with humility and simplicity to achieve market beating returns in long run.
 
 This article I have created after reading numerous books on investing and finally have concluded that there are 3 most important books on investing which everyone should must read:
 
@@ -17,7 +17,7 @@ After reading above 3 book I have found that in modern world the field of stock 
 
 2) Passively managed (should track an index)
 
-3) Highly concentrated (should not be over diversified and should have higher allocation to winning/growing/innovative sectors)
+3) Highly concentrated (should have higher allocation to winning/growing/innovative sectors)
 
 4) Innovation (should be focused on holding innovative businesses)
 
