@@ -17,7 +17,7 @@ After reading above 3 book I have found that in modern world the field of stock 
 
 2) Passively managed (should track an index)
 
-3) Highly concentrated (should have higher allocation to winning, growing and innovative sectors)
+3) Highly concentrated (should have higher allocation to growing and innovative sectors)
 
 4) Innovation (should be focused on holding innovative businesses)
 
