@@ -37,7 +37,7 @@ I was able to achieve this investing insight only because I was sitting on the s
 
 We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
 
-1) A long life
+1) An enormous long life
 2) Filled with enormous health
 3) Filled with enormous wealth and
 4) Filled with enormous wisdom
