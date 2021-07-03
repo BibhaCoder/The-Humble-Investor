@@ -15,7 +15,7 @@ After reading above 3 book I have found that in modern world the field of stock 
 
 1) Low cost (expense ration should be <= 0.20)
 
-2) Passively managed (should track an index which is at least 20 years old)
+2) Passively managed (should track an index which is at least a decade old)
 
 3) Highly concentrated (should have higher allocation to growing and innovative sectors)
 
@@ -23,7 +23,7 @@ After reading above 3 book I have found that in modern world the field of stock 
 
 5) Growth (should be focused on holding growing business)
 
-Instead of doing speculation and trying to invest in risky and speculative securities/assets a humble investor should look for above 5 characteristics in ETFs and invest in them for long term. A humble investor’s ETF must have expense ration <= 0.20. It should also be passively managed and track an index which is at least 20 years old and avoid new experimental indices which are not proven yet. Passively managed ETFs also helps to avoid human emotion trigerred mistakes and improve tax efficiency by avoiding frequent portfolio turn overs. A humble investor’s ETF should also be highly concentrated to avoid over diversification and should have higher allocations to growing and innovative sectors. A humble investor's ETF should be focused on holding innovative and growing businesses. Innovation and growth are key for long term success of any business so look for ETFs which are made of innovative and growing businesses.
+Instead of doing speculation and trying to invest in risky and speculative securities/assets a humble investor should look for above 5 characteristics in ETFs and invest in them for long term. A humble investor’s ETF must have expense ration <= 0.20. It should also be passively managed and track an index which is at least 10 years(a decade) old and avoid new experimental indices which are not proven yet. Passively managed ETFs also helps to avoid human emotion trigerred mistakes and improve tax efficiency by avoiding frequent portfolio turn overs. A humble investor’s ETF should also be highly concentrated to avoid over diversification and should have higher allocations to growing and innovative sectors. A humble investor's ETF should be focused on holding innovative and growing businesses. Innovation and growth are key for long term success of any business so look for ETFs which are made of innovative and growing businesses.
 
 A humble investor does not need 20 to 50 ETFs to get proper diversification. Only 2 ETFs(one pair) focused on above 5 characteristics are good enough for a humble investor to achieve long term market beating(VOO/VTI) returns. And finally holding period for a humble investor should be forever :)
 
