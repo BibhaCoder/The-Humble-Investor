@@ -31,7 +31,7 @@ I was able to achieve this investing insight only because I was constantly learn
 
 1) John C Bogle
 
-2) Warren buffet and Charlie Munger
+2) Charlie Munger and Warren buffet
 
 3) Phil Fisher
 
