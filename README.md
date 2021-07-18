@@ -56,5 +56,5 @@ For a successful human life we should focus on nurturing and cultivating growth 
 6) Transendence: Appreciation of beauty and excellence, Gratitude, Hope, Humour and Sprituality
 
 
-* Copyright (c) 2017 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
+* Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 
