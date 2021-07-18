@@ -44,9 +44,9 @@ We should be very careful in chosing role models in our life. We should chose ve
 
 Cultivating growth mindset is very important for living a successful and meaningful life. Growth mindset has its roots in neuroscience and a concept called brain placiticity which means neurons connections between our brains changes with learning. Individuals with growth mindset believe that their talents can be developed through hard work, good strategies, and input from others. No one is born good or bad human being. Every human being has potential to use growth mindset and achieve excellence in their life. Please note that neuroscience has already confirmed that  nurture is more important than nature. Individuals with growth mindset believes that they can achieve anything in their life if they set mind on it. Growth mindset encourages learning process over results and gives more importance to enjoying the journey and the process of putting geuine wholehearted effort irrespective of whatever is end result.
 
-For a successful human life we should focus on nurturing and cultivating growth mindset and all 24 human character strengths to be a better human for our family and our society in every aspect:
+For a successful human life we should focus on nurturing and cultivating growth mindset and all 24 human character strengths to be a better human for our spouse, kids, family, friends and our society in every aspect.
 
-24 character strengths to cultivate for being a better human  being for our wife, kids, family, friends and society are:
+24 character strengths to cultivate for being a better human  being for our spouse, kids, family, friends and society are:
 
 1) Wisdom: Creativity, Curiosity, Judgement, Love of learning, Perspective
 2) Courage: Bravery, Perserverence, Honesty, Zest
