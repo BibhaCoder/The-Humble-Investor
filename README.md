@@ -46,7 +46,7 @@ Cultivating growth mindset is very important for living a successful and meaning
 
 For a successful human life we should focus on nurturing and cultivating growth mindset and all 24 human character strengths to be a better human for our spouse, kids, family, friends and our society in every aspect. Every human being is special and unique with respect to their signature character strengths. Character strength has its roots in science of positive psychology which gives more importance to nurturing what is best about being humans across different human cultures. My personal signature character strengths are: love of learning, judgement, bravery, perserverence, zest, kindness(compassion), social intelligence, leadership, self regulation, humility, gratitude and sprituality.  
 
-24 character strengths to cultivate for being a better human  being for our spouse, kids, family, friends and society are:
+24 character strengths to cultivate for being a better human  being for our spouse, kids, family, friends, society  and complete humanity are:
 
 1) Wisdom: Creativity, Curiosity, Judgement, Love of learning, Perspective
 2) Courage: Bravery, Perserverence, Honesty, Zest
