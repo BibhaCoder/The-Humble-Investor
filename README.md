@@ -50,7 +50,7 @@ For a successful human life we should focus on nurturing and cultivating growth 
 
 1) Wisdom: Creativity, Curiosity, Judgement, Love of learning, Perspective
 2) Courage: Bravery, Perserverence, Honesty, Zest
-3) Humanity: Love, Kindness, Social Intelligence
+3) Humanity: Love, Kindness(Compassion), Social Intelligence
 4) Justice: Teamwork, Fairness, Leadership
 5) Temperence: Self regulation, Prudence, Humility, Forgiveness
 6) Transendence: Appreciation of beauty and excellence, Gratitude, Hope, Humour and Sprituality
