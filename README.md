@@ -2,7 +2,7 @@ The Humble Investor
 ===================
 
 An investing principle for small individual common investors
-____________________________________________________________
+__________________________________________
 
 Investing field is quite complex and challenging and pretending to know everything in the world of investing is trying to fool ourself and achieve mediocre returns and drastically under perform market(VOO/VTI) in long run. There is so much noise, nonsense and distractions in the world of investment that a common investor can easily get distracted and make huge mistakes. Primary purpose of this article is to teach small individual common investors on how to take the field of investment with humility and simplicity to achieve market beating returns in long run to achieve financial independence and become a truly successful humble investor.
 
