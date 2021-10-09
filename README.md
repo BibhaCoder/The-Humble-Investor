@@ -30,7 +30,7 @@ Instead of doing speculation and trying to invest in risky and speculative secur
 
 A humble investor does not need 20 to 50 ETFs to get proper diversification. Only 2 ETFs(one pair) focused on above 5 characteristics are good enough for a humble investor to achieve long term market beating(VOO/VTI) returns. And finally holding period for a humble investor should be forever. A humble investor should completely avoid moving around and frequent tradings. A humble investor should only be focused on periodic buying and this way achieve behavioral alpha which also helps to beat market averages(VOO/VTI) by significant margin in long run. Please note that successful investing does not require very high intelligence. Successful investing requires a cool and stable temprament. A humble investor should focus on achieving excellence at their respective profession and keeping their everyday expenses low such that maximum savings can be invested with the principles of humble investing and let the magic of compounding work for them in long term to achieve financial independence.
 
-I was able to achieve this investing insight only because I was constantly learning from following 3 giants of investting world: 
+I was able to achieve this investing insight only because I was constantly learning from following 3 giants of investing world: 
 
 1) John C Bogle
 
