@@ -16,15 +16,15 @@ This article I have created after reading numerous books on investing and finall
 
 After reading above 3 book I have found that in modern world the field of stock investing should be dealt with humility and simplicity. A humble investor should look for following 5 key characteristics in an ETF to achieve long term market beating(VOO/VTI benchmark) returns:
 
-1) Low cost (expense ration should be <= 0.15)
+1) Low cost (expense ration should be <= 0.15 and no enter/exit loads)
 
 2) Passively managed (should track a proven index which is at least a decade old)
 
-3) Highly concentrated (should have higher allocation to growing and innovative sectors)
+3) Highly concentrated (should have higher allocation to growing and innovative sectors and avoid over diversification)
 
-4) Innovation (should be focused on holding innovative businesses)
+4) Innovation (should be focused on holding best innovative businesses)
 
-5) Growth (should be focused on holding growing business)
+5) Growth (should be focused on holding best growing business)
 
 Instead of doing speculation and trying to invest in risky and speculative securities/assets a humble investor should look for above 5 characteristics in ETFs and invest in them for long term. A humble investor’s ETF must have expense ration <= 0.15 with absolutely no enter and exit fees(loads) such that the humble investor makes most of the earned money and not the investment management firm. It should also be passively managed and track an index which is at least 10 years old and avoid new experimental risky indices which are not proven yet. Please note that the entire gain in the U.S. stock-market since 1926 is attributable to only 4% of the stocks thats means combined 96% listed stocks are losers(only match treasury bill return) in long term in this brutal competitive world. A humble investor should only rely on time tested and proven indices and avoid getting trapped into marketing gimmicks of investment management firms. Passively managed ETFs also helps to avoid human emotion trigerred mistakes and improve tax efficiency by avoiding frequent portfolio turn overs. A humble investor should avoid actively managed funds because actively managed funds always lose their luster and underperform passively managed funds over long term because of human emotional mistakes of changing fund managers. Actively managed funds eat up a large portion of investors profits because of high management fees and tax efficiency. A humble investor’s ETF should also be highly concentrated to avoid over diversification and should have higher allocations to growing and innovative sectors. A humble investor's ETF should be focused on holding innovative and growing businesses. Innovation and growth are key for long term success of any business so look for ETFs which are made of innovative and growing businesses.
 
