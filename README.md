@@ -16,7 +16,7 @@ This article I have created after reading numerous books on investing and finall
 
 After reading above 3 book I have found that in modern world the field of stock investing should be dealt with humility and simplicity. A humble investor should look for following 5 key characteristics in an ETF to achieve long term market beating(VOO/VTI benchmark) returns:
 
-1) Low cost (expense ration should be <= 0.15 and no enter/exit loads)
+1) Low cost (total expense ration should be <= 0.15 and absolutely no enter/exit loads)
 
 2) Passively managed (should track a proven index which is at least a decade old)
 
