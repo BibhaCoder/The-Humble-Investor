@@ -1,5 +1,5 @@
 The Humble Investor
-===================
+==================
 
 An investing principle for small individual common investors
 ______________________
