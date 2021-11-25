@@ -1,6 +1,10 @@
 The Humble Investor
 ==================
 
+/*
+ * Copyright (c) 2017 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
+ */
+ 
 An investing principle for individual common investors
 ______________________
 
