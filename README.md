@@ -4,7 +4,7 @@ The Humble Investor
 Copyright (c) 2017 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ---------------------------------------------------------------------------------
 
-Please note this is NOT an investment advice and investor’s might lose money in market in short term.
+Please note this is NOT a professional investment advice and investor’s might lose money in market in short term.
 __________________
 
 An investing principle for individual common investors
