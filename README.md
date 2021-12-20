@@ -42,14 +42,6 @@ A humble investor may also employ core and alpha strategy. Core strategy consist
 
 As part of alpha strategy a humble investor may employ modern trading platforms stop_loss sell and buy orders to automatically exit and enter the leveraged ETF position based on above mentioned cash rotation strategy without any active involvement and any personal emotional triggers. Please note that a person's uncontrolled emotions are biggest hurdles in the path of successful investing. Standard market risk was always there and will always be even in future. If any person wants to see the most dangerous risk then she/he should sit idle and simply focus on their breathing(mindfulness meditation) and watch their uncontrolled thoughts(50 per minute) and emotions to realize that the actual biggest risk is residing in their mind as form of amygdala fuelled uncontrolled thoughts and emotions. Modern trading platforms have evolved for good reasons and made it very easy to employ a passive hands off automated alpha strategy.
 
-I was able to achieve this investing insight only because I was constantly learning from following 3 giants of investing world: 
-
-1) John C Bogle
-
-2) Charlie Munger and Warren buffet
-
-3) Phil Fisher
-
 We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
 
 1) An enormous long life
