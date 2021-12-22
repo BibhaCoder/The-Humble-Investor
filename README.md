@@ -72,6 +72,8 @@ To be a good human being for our spouse, kids, family, friends and society I fou
 2) How to Win Friends & Influence People: by Dale Carnegie
 3) Mindset: The New Psychology of Success: by Carol S. Dweck PhD
 
+A humble request : please do not accept above principles of humble investing without due diligence and validating it yourself with your rational and critical thinking.
+
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ---------------
 
