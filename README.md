@@ -7,7 +7,7 @@ Copyright (c) 2017 BibhaCoder(https://github.com/BibhaCoder). All rights reserve
 Please note this is NOT a professional investment advice and investor’s might lose money in securities market in short term.
 __________________
 
-An investing principle for small individual common investors
+An investing principle for small individual common investors to achieve financial independence 
 ______________________
 
 Please note that always the best investment is investment in our personal well-being, skills development and in our mental and physical health. No investment in the world can match the returns of investing in our well-being and inturn achieving an enormous long life filled with enormous health, wealth and wisdom.
