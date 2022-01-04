@@ -72,7 +72,7 @@ To be a good human being for our spouse, kids, family, friends and society I fou
 2) How to Win Friends & Influence People: by Dale Carnegie
 3) Mindset: The New Psychology of Success: by Carol S. Dweck PhD
 
-Please note that in the field of investing high priests(hedge funds, active professional money managers etc.) have no edge over common people if common people can employ the above mentioned principles of humble investing with proper discipline.
+Please note that in the field of investing high priests(hedge funds, active professional money managers etc.) have no edge over common people if common people can employ the above mentioned principles of humble investing with proper discipline. By following above simple principles of humble investing small common investors can become millionaires  and billionaires over long time of investment horizon instead of making fund managers and investment management firms rich who are already filthy rich. Please note that the less we pay of investing the more we earn at the end for ourself.
 
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ---------------
