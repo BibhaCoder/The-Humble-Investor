@@ -73,7 +73,6 @@ To be a good human being for our spouse, kids, family, friends and society I fou
 3) Nonviolent Communication: A Language of Life: by Marshall B. Rosenberg PhD 
 4) How to Win Friends & Influence People: by Dale Carnegie
 5) Mindset: The New Psychology of Success: by Carol S. Dweck PhD
-6) The power of character strengths: Appreciate and Ignite Your Positive Personality: by Ryan M. Niemiec and Robert E. McGrath
 
 Please note that in the field of investing high priests(hedge funds, active professional fund money managers, investment management firms etc.) have no edge over common people if common people can employ the above mentioned principles of humble investing with proper discipline. By following above simple principles of humble investing small common investors can easily achieve financial independence by becoming millionaires and billionaires over long time of investment horizon instead of making fund managers and investment management firms rich who are already filthy rich. Please note that the less we pay for investing the more we earn at the end for ourself.
 
