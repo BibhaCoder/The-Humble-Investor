@@ -66,7 +66,7 @@ To be successful in any professional work environment we needs character strengt
 
 The secret of a successful and fulfilling life is to achieve a healthy balance between various elements, thoughts and philosophies available in the universe. As the earth's balanced distance(not too far and not too close) from the sun ensures flourishing of diverse life and ecosystem on earth, similarly a healthy balance between dark matter and dark energy ensures survival of our very own universe. Every star in our universe shines because of the balance between its massive gravity crushing its core and nuclear fusion in the core trying to blow it up. Similarly for a successful and fulfilling like we need to maintain a healthy balance in our life and avoid extremes of anything.
 
-To be a good human being for our spouse, kids, family, friends and society I found learning and applying these principles in our life from following 3 books very helpful:
+To be a good human being for our spouse, kids, family, friends and society I found learning and applying these principles in our life from following books very helpful:
 
 1) The Art of Happiness: by Dalai Lama and Howard C. Cutler
 2) The Science of Well-Being: by Laurie Santos(Yale University online course)
