@@ -11,7 +11,7 @@ An investing principle for small individual common investors to achieve financia
 ______________________
 
 Please note that always the best investment is investment in our personal well-being, skills development and in our mental and physical health. No investment in the world can match the returns of investing in our well-being and inturn achieving an enormous long life filled with enormous health, wealth and wisdom. There are 3 basic fundamentals for our mental and physical health:
-1) Movement: Do at least one hour of daily physical activity(walking, swimming, running, cycling, yoga, excercise in gym etc.)
+1) Movement: Stay active and do at least one hour of daily physical activity(walking, swimming, running, cycling, yoga, excercise in gym etc.)
 2) Nutrition: Eat primarily healthy plants, fruits, nuts, whole grains and vegetables based diet.
 3) Rest:  Get enough eight to ten hours of good rest and sleep for our mind and body to recharge. 
 
