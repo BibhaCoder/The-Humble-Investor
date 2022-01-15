@@ -45,14 +45,14 @@ A humble investor does not need 20 to 50 ETFs to get proper diversification. Onl
 
 I have found following ETFs which meet the above mentioned 5 principles(low cost, passively managed, highly concentrated, innovation and growth) humble investing and following is their return in comparison with VOO benchmark:
 
-|  NAV return       | VOO    | VUG    |  MGK   | VGT    | QQQM   | VOT  | VBK  |
-| ------------------| ----   | ----   | ----   | ----   | ----   | ---- | ---- |
-| Net expense ratio | (0.03) | (0.04) | (0.07) | (0.10) | (0.15) | 0.07 | 0.07 |
-| 3 years           | 26.03  | 34.78  | 35.57  | 0.03   | 0.03.  | 0.03 | 0.03 |
-| 5 years           | 18.43  | 24.78  | 25.66  | 0.03   | 0.03.  | 0.03 | 0.03 | 
-| 10 years          | 16.51  | 19.30  | 19.83  | 0.03   | 0.03.  | 0.03 | 0.03 |
-| Since inception   |  8.21  | 12.13  | 14.02  | 0.03   | 0.03.  | 0.03 | 0.03 |
-| Inception: 2000   | (2000) | (2004) | (2007) | (2004) | (1999) | 2006 | 2004 |
+|  NAV return       | VOO    | VUG    |  MGK   | VGT    | QQQM   | VOT    | VBK    |
+| ------------------| ----   | ----   | ----   | ----   | ----   | ----   | ----   |
+| Net expense ratio | (0.03) | (0.04) | (0.07) | (0.10) | (0.15) | (0.07) | (0.07) |
+| 3 years           | 26.03  | 34.78  | 35.57  | 41.43  | 38.04  | 29.43  | 23.82  |
+| 5 years           | 18.43  | 24.78  | 25.66  | 31.79  | 28.37  | 20.05  | 16.90  | 
+| 10 years          | 16.51  | 19.30  | 19.83  | 23.67  | 22.88  | 16.45  | 14.83  |
+| Since inception   |  8.21  | 12.13  | 14.02  | 14.06  | 10.11  | 11.68  | 10.76  |
+| Inception: 2000   | (2000) | (2004) | (2007) | (2004) | (1999) | (2006) | (2004) |
 
 A humble investor may also employ core and alpha strategy. Core strategy consists of buying and holding forever two non leveraged ETFs selected based on above 5 principles(low cost, passively managed, highly concentrated,  innovative business and growing businesses). Alpha strategy may consist of a safe and solid 3x leveraged ETF based on a solid major broad stock market index to boost the long term returns with 200 days daily moving average cash rotation strategy to filter out volatility. As part of 200 days moving average cash rotation strategy only buying and holding a 3x leveraged ETF only if its underlying index closes above its 200 days moving average and rotating to cash whenever its underlying index closes below its 200 days moving average to avoid volatility decay. For young investors who have very little amount of money to invest its more sensible and intelligent approach to use a safe and solid less volatile proven broad stock market index based 3x leveraged ETFs to get more exposure to stocks and boost long-term returns in tax deferred IRA/HSA accounts. Leveraged FTFs total expense ration should be less than 1.0 percent and they should track a solid less volatile proven stock index. Natural safe leverage can also be achieved to boost long term returns by periodically investing large sum of saved money to get greater exposure to the market as part of core strategy. All other types of dangerous leverages like borrowing money from home or at a high interest rates(credit cards) etc. should be avoided at all costs. Modern days leveraged ETFs are best ways to get leverage and more exposure to securities market with lowest possible cost. By using 3x leveraged ETF based on a major broad stock market index risk is dramatically reduced. Do not gamble with individual games in a casino instead own the entire casino and gauranteed make money where as vast majority of individual gamblers will have to lose money at the end. Small common investors should focus on their well-being and enjoying every day life and never worry about the noise and distractions of securities market activities.
 
