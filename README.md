@@ -13,9 +13,9 @@ ______________________
 Please note that always the best investment is investment in our personal well-being, skills development and in our mental and physical health. No investment in the world can match the returns of investing in our well-being and inturn achieving an enormous long life filled with enormous health, wealth and wisdom. Following are 5 basic fundamental concepts to master for our mental and physical health and wellbeing:
 1) Mindfulness: Daily practice of mindfulness meditation can help to reduce anxiety and stress and boost our daily cognitive abilities.
 2) Activity: Stay active and do at least one hour of daily physical activity(walking, swimming, running, cycling, yoga, playing favorite sports, excercise in gym etc.)
-3) Food: We are result of what we eat so eat primarily healthy plants, fruits, nuts, whole grains and vegetables based diet.
-4) Sleep: Get enough eight to ten hours of good sleep for our mind and body to recharge.
-5) Gratitude: Daily practice of gratitude can reduce hedonic adaptations and keep us focused on living in the moment.
+3) Food: We are result of what we eat so chose carefully what to eat. Primarily healthy plants, fruits, nuts, whole grains and vegetables based diet.
+4) Sleep: Similar to being active getting enough eight to ten hours of good sleep is extremely important for our mind and body to recharge and work with full capabilities.
+5) Gratitude: Daily practice of gratitude can reduce hedonic adaptations of life and keep us focused on living in the moment and enjoying every moment of life.
 
 Investing field is quite complex and challenging and pretending to know everything in the world of investing is trying to fool ourself and achieve mediocre returns and drastically under perform market(VOO/VTI) in long run. There is so much noise, nonsense and distractions in the world of investment that a common investor can easily get distracted and make huge mistakes because of their uncontrolled emotions. Primary purpose of this article is to guide small individual common investors on how to take the field of investment with humility and simplicity to achieve market beating returns in long run to achieve financial independence and become a truly successful humble investor. In modern world where average humans are living longer, its more important to achieve financial independence and investing is one of the most important tools to achieve financial independence. At the end in whatever profession we all are working, our end goal is to achieve financial independence.
 
