@@ -69,7 +69,7 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 | Sortino Ratio           |  0.57   | 0.71   |  1.05             |
 | Max Drawdown            | -86.2   | -99.9  | -92.2             |
 | Beta                    | 1       | 3      | 1.3               |
-| Annual Alpha            | 0.0     | -1     | *17.5*            |
+| Annual Alpha            | 0.0     | -1     | **17.5**          |
 | Average trades per year | 0       | 0      | 5                 |
 
 We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
