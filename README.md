@@ -7,7 +7,7 @@ Copyright (c) 2017 BibhaCoder(https://github.com/BibhaCoder). All rights reserve
 Please note this is not a professional investment advice and investor’s might lose money in securities market in short term.
 __________________
 
-An investing principle and worldly wisdom for small individual common investors to achieve financial independence.
+An investing principle and worldly wisdom for small individual common investors to achieve financial independence and live a fulfilling life.
 ______________________
 
 Please note that always the best investment is investment in our personal well-being, skills development and in our mental and physical health. No investment in the world can match the returns of investing in our well-being and inturn achieving an enormous long life filled with enormous health, wealth and wisdom. Following are 5 basic fundamental concepts to master for our mental and physical health and wellbeing:
