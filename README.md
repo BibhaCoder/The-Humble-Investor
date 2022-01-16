@@ -59,18 +59,18 @@ A humble investor may also employ core and alpha strategy. Core strategy consist
 
 As part of alpha strategy a humble investor may employ modern trading platforms stop_loss sell and buy orders to automatically exit and enter the leveraged ETF position based on above mentioned cash rotation strategy without any active involvement and any personal emotional triggers. Please note that a person's uncontrolled emotions are biggest hurdles in the path of successful investing. Standard market risk was always there and will always be even in future. If any person wants to see the most dangerous risk then she/he should sit idle and simply focus on their breathing(mindfulness meditation) and mindfully watch their uncontrolled thoughts(approximately 50 thoughts per minute) and emotions to realize that the actual biggest risk is residing in their mind as form of amygdala fuelled uncontrolled thoughts and emotions. Modern trading platforms have evolved for good reasons and made it very easy to employ a passive hands off automated alpha strategy. As a human being we should remember our evolution from great apes which makes us biologically prone to herd and croud mentality. Following herd or crowd is the biggest mistake investors can do. Smart and intelligent investors should keep themselves detached from the crowd and stay focused on their chosen investment principles through thick and thin.
 
-In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing the alpha strategy and as per research paper [Leverage for the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2741701) above mentioned alpha strategy has returned an alpha of 17.5% since 1928 in comparison to s&p 500 index and has avoided volatility decay of all past major market corrections. Using modern trading platforms stop_loss sell and buy orders and UPRO ETF this alpha strategy can be easily passively implemented as part of alpha strategy in IRA/HSA tax deferred account. Following is performance of S&P 500  since OCT 1928 to DEC 2020 compare to S&P 500 3x levearge with and without 200 days moving average cash leveraged rotation strategy(200-d CLRS).
+In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing the alpha strategy and as per research paper [Leverage for the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2741701) above mentioned alpha strategy has returned an alpha of 17.5% since 1928 in comparison to s&p 500 index and has avoided volatility decay of all past major market corrections. Using modern trading platforms stop_loss sell and buy orders and UPRO ETF this alpha strategy can be easily passively implemented in IRA/HSA tax deferred account. Following is performance of S&P 500  since OCT 1928 to DEC 2020 compare to S&P 500 3x levearge with and without 200 days moving average cash leveraged rotation strategy(200-d CLRS).
 
-|  Metric (1928 to 2020)  | S&P 500 | S&P 3x | S&P 3x(200d-CLRS) |
-|  ----                   | ----    | ----   | ----              |
-| Annual Return           |  9.4    | 16.2   | 26.7              |
-| Annual Volatility       | 18.9    | 56.7   | 37.3              |
-| Sharpe Ratio            |  0.32   | 0.22   |  0.61             |
-| Sortino Ratio           |  0.57   | 0.71   |  1.05             |
-| Max Drawdown            | -86.2   | -99.9  | -92.2             |
-| Beta                    | 1       | 3      | 1.3               |
-| Annual Alpha            | 0.0     | -1     | **17.5**          |
-| Average trades per year | 0       | 0      | 5                 |
+|  Metric (1928 to 2020)  | S&P 500(buy and hold) | S&P 3x(buy and hold) | S&P 3x(200d-CLRS) |
+|  ----                   | ----                  | ----                 | ----              |
+| Annual Return           |  9.4                  | 16.2                 | 26.7              |
+| Annual Volatility       | 18.9                  | 56.7                 | 37.3              |
+| Sharpe Ratio            |  0.32                 | 0.22                 |  0.61             |
+| Sortino Ratio           |  0.57                 | 0.71                 |  1.05             |
+| Max Drawdown            | -86.2                 | -99.9                | -92.2             |
+| Beta                    | 1                     | 3                    | 1.3               |
+| Annual Alpha            | 0.0                   | -1                   | **17.5**          |
+| Average trades per year | 0                     | 0                    | 5                 |
 
 We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
 
