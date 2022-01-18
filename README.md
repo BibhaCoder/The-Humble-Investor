@@ -11,11 +11,11 @@ An investing principle and worldly wisdom for small individual common investors 
 ______________________
 
 Please note that always the best investment is investment in our personal well-being, skills development and in our mental and physical health. No investment in the world can match the returns of investing in our well-being and inturn achieving an enormous long life filled with enormous health, wealth and wisdom. Following are 5 basic fundamental concepts to master for our mental and physical health and wellbeing:
-1) Mindfulness: Daily practice of mindfulness meditation can help to reduce anxiety and stress and boost our everyday cognitive abilities and make us a better person by cultivating empathy and compassion.
-2) Activity: Stay active and do at least one hour of daily physical activity like walking, swimming, running, cycling, yoga, playing our favorite sports, excercise in gym etc.
-3) Food: We are result of what we eat so chose carefully what to eat. Primarily fresh healthy plants, fruits, nuts, whole grains and vegetables based food in small portions.
-4) Sleep: Similar to being active getting enough eight to ten hours of good sleep is extremely important for our mind and body to recharge and work with full capabilities.
-5) Gratitude: Daily practice of gratitude can reduce hedonic adaptations of life and keep us focused on living in the moment and enjoying every moment of life without worrying too much about future.
+1) **Mindfulness**: Daily practice of mindfulness meditation can help to reduce anxiety and stress and boost our everyday cognitive abilities and make us a better person by cultivating empathy and compassion.
+2) **Activity**: Stay active and do at least one hour of daily physical activity like walking, swimming, running, cycling, yoga, playing our favorite sports, excercise in gym etc.
+3) **Food**: We are result of what we eat so chose carefully what to eat. Primarily fresh healthy plants, fruits, nuts, whole grains and vegetables based food in small portions.
+4) **Sleep**: Similar to being active getting enough eight to ten hours of good sleep is extremely important for our mind and body to recharge and work with full capabilities.
+5) **Gratitude**: Daily practice of gratitude can reduce hedonic adaptations of life and keep us focused on living in the moment and enjoying every moment of life without worrying too much about future.
 
 Investing field is quite complex and challenging and pretending to know everything in the world of investing is trying to fool ourself and achieve mediocre returns and drastically under perform market(VOO/VTI) in long run. There is so much noise, nonsense and distractions in the world of investment that a common investor can easily get distracted and make huge mistakes because of their uncontrolled emotions. Primary purpose of this article is to guide small individual common investors on how to take the field of investment with humility and simplicity to achieve market beating returns in long run to achieve financial independence and become a truly successful humble investor. In modern world where average humans are living longer, its more important to achieve financial independence and investing is one of the most important tools to achieve financial independence. At the end in whatever profession we all are working, our end goal is to achieve financial independence.
 
@@ -29,15 +29,15 @@ Successful investing is an intellectual field of education and analysis. Trying 
 
 After reading above 3 book I have found that in modern world the field of stock investing should be dealt with humility and simplicity. A humble investor should look for following 5 key characteristics(tests) in an ETF to achieve long term market beating(VOO/VTI benchmark) returns:
 
-1) Low cost: Total expense ration should be <= 0.15 and absolutely no enter/exit loads.
+1) **Low cost**: Total expense ration should be <= 0.15 and absolutely no enter/exit loads.
 
-2) Passively managed: Track a proven index which is at least a decade old(survival test) and benefit from natural selection of survival of fittest.
+2) **Passively managed**: Track a proven index which is at least a decade old(survival test) and benefit from natural selection of survival of fittest.
 
-3) Highly concentrated: To have higher allocation to growing and innovative sectors and avoid over diversification.
+3) **Highly concentrated**: To have higher allocation to growing and innovative sectors and avoid over diversification.
 
-4) Innovation: Focused on holding best available innovative businesses in the country.
+4) **Innovation**: Focused on holding best available innovative businesses in the country.
 
-5) Growth: Focused on holding best available growing business in the country.
+5) **Growth**: Focused on holding best available growing business in the country.
 
 Instead of doing speculation and trying to invest in risky and speculative securities/assets a humble investor may look for above 5 characteristics or tests in ETFs and invest in them for very very long term. A humble investor’s ETF must have very low total expense ration <= 0.15 with absolutely no enter and exit fees(loads) such that the humble investor makes most of the earned money and not the investment management firm. It should also be passively managed with full-replication approach and track a proven solid index which is at least 10 years old and avoid new experimental risky indices which are not proven yet. Please note that the entire gain in the U.S. stock-market since 1926 is attributable to only 4% of the stocks thats means combined 96% listed stocks are losers(only match treasury bill return) in long term in this brutal competitive world. A humble investor should only rely on time tested and proven indices and avoid getting trapped into marketing gimmicks of investment management firms. Passively managed ETFs helps us to easily stick with our chosen investment philosophy and avoids human emotion trigerred mistakes and improve tax efficiency by avoiding frequent portfolio turn overs. Passively managed index replicates nature's law of survival of fittest and underperforming businesses are automaticaly removed from the index. A humble investor should avoid actively managed ETFs and funds because actively managed funds deteriorate over time and underperform their respective passive benchmark index over long run because of high costs, genuinely unskilled professional managers, human emotional mistakes of changing fund managers etc. Short term out performance by an active manager is 100% attributable to luck, infact it requires minimum 22 years of consistent outperformance(compare to their respective passive benchmark index) to know if a professional manager is 90% skilled. Even best of the best active professionals and fund managers fail to beat their passive benchmark consistently over very long time. Active managed funds also eat up a large portion of investors profits because of high management fees and tax inefficiencies because of very frequent portfolio turn overs. A humble investor’s ETF should also be highly concentrated to avoid over diversification and should have higher allocations to growing and innovative sectors. A humble investor's ETF should be focused on holding best available innovative and growing businesses. Innovation and growth are key for long term success of any business so look for ETFs which are made of innovative and growing businesses.
 
