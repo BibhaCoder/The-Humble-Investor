@@ -33,7 +33,7 @@ After reading above 3 book I have found that in modern world the field of stock 
 
 2) **Passively Managed**: Track a proven index which is at least a decade old(survival test) and benefit from natural selection of survival of fittest.
 
-3) **Highly Concentrated**: To have higher allocation to growing and innovative sectors and avoid over diversification.
+3) **Highly Concentrated**: To have higher allocation to growing and innovative [sectors](https://corporatefinanceinstitute.com/resources/knowledge/finance/the-sp-sectors/) and avoid over diversification.
 
 4) **Innovation**: Focused on holding best available innovative businesses in the country.
 
