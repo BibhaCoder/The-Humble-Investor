@@ -29,11 +29,11 @@ Successful investing is an intellectual field of education and analysis. Trying 
 
 After reading above 3 book I have found that in modern world the field of stock investing should be dealt with humility and simplicity. A humble investor should look for following 5 key characteristics(tests) in an ETF to achieve long term market beating(VOO/VTI benchmark) returns:
 
-1) **Low cost**: Total expense ration should be <= 0.15 and absolutely no enter/exit loads.
+1) **Low Cost**: Total expense ration should be <= 0.15 and absolutely no enter/exit loads.
 
-2) **Passively managed**: Track a proven index which is at least a decade old(survival test) and benefit from natural selection of survival of fittest.
+2) **Passively Managed**: Track a proven index which is at least a decade old(survival test) and benefit from natural selection of survival of fittest.
 
-3) **Highly concentrated**: To have higher allocation to growing and innovative sectors and avoid over diversification.
+3) **Highly Concentrated**: To have higher allocation to growing and innovative sectors and avoid over diversification.
 
 4) **Innovation**: Focused on holding best available innovative businesses in the country.
 
