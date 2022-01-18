@@ -52,7 +52,7 @@ So far after evaluating hundreds of non leveraged ETFs for implementing the core
 | 5 years           | 18.43       | 24.78    | 25.66    | 31.79        | 28.37        |
 | 10 years          | 16.51       | 19.30    | 19.83    | 23.67        | 22.88        |
 | Since inception   |  8.21       | 12.13    | 14.02    | 14.06        | 13.80        |
-| Inception year    | (2000)      | (2004)   | (2007)   | (2004)       | (1985)       |
+| Inception year    | (2000)      | (2004)   | (2007)   | (2004)       | (1986)       |
 | Category           |(Benchmark) | (Growth) | (Growth) | (Innovation) | (Innovation) |
 
 Please note that broad sector specific non leveraged ETFs can also be used in core portfolio if they pass all above 5 tests and specifically tests no 1) low cost(<=0.15) and test no 2) passively managed, that they should be passively managed and track a proven growing and innovative broad market sector index which is at least 10 years old and has a proven solid passive strategy. A humble investor should be careful and avoid market trendy and catchy subsector sepcifc ETFs whose underlying index/market sector is not yet proven(has not survived past 10 years survival test). That means trendy ETFs whose underlying index and market sector is not yet proven/established to be growing and innovating should be avoided. Most of the time very 1st test of low cost(total expense ratio <= 0.15) should be able to filter out majority of new unproven trendy ETFs as most of these trendy  ETFs are marketing propaganda and primarily launched to make money from their high fees by looking trendy and attractive to investors.
