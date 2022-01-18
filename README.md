@@ -46,7 +46,7 @@ A humble investor does not need 20 to 50 non leveraged ETFs to get proper divers
 So far after evaluating hundreds of non leveraged ETFs for implementing the core strategy, I have found very few ETFs which consistently pass all the above mentioned 5 tests(low cost, passively managed, highly concentrated, innovation and growth) of humble investing and the ones which I like and appreciate for their extremely low cost, high concentration of growing and innovative businesses and their solid proven passive strategy for more than last 17+ years. Please note that there could be more equally good ETFs in the market which may consistently pass all above 5 tests and could be part of a humble investor's core portfolio. Below mentioned ETFs are just examples to demonstrate the strength of humble investing principles and it's consistent market beating performance. Following is their performance in comparison with VOO benchmark for implementing the core strategy:
 
 |  NAV return       | VOO         | VUG      |  MGK     |  VGT         | NDX          |
-| ------------------| ----        | ----     | ----     |  ----        | ----         |
+| ------------------| ----        | ----     |  ----    |  ----        | ----         |
 | Net expense ratio | (0.03)      | (0.04)   | (0.07)   | (0.10)       | (0.15)       |
 | 3 years           | 26.03       | 34.78    | 35.57    | 41.43        | 38.04        |
 | 5 years           | 18.43       | 24.78    | 25.66    | 31.79        | 28.37        |
