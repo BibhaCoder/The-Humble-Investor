@@ -29,15 +29,15 @@ Successful investing is an intellectual field of education and analysis. Trying 
 
 After reading above 3 book I have found that in modern world the field of stock investing should be dealt with humility and simplicity. A humble investor should look for following 5 key characteristics(tests) in an ETF to achieve long term market beating(VOO/VTI benchmark) returns:
 
-1) Low cost (total expense ration should be <= 0.15 and absolutely no enter/exit loads)
+1) Low cost: Total expense ration should be <= 0.15 and absolutely no enter/exit loads.
 
-2) Passively managed (should track a proven index which is at least a decade old and benefit from natural selection of survival of fittest)
+2) Passively managed: Should track a proven index which is at least a decade old(survival test) and benefit from natural selection of survival of fittest.
 
-3) Highly concentrated (should have higher allocation to growing and innovative sectors and avoid over diversification)
+3) Highly concentrated: Should have higher allocation to growing and innovative sectors and avoid over diversification.
 
-4) Innovation (should be focused on holding best available innovative businesses in the country)
+4) Innovation: Should be focused on holding best available innovative businesses in the country.
 
-5) Growth (should be focused on holding best available growing business in the country)
+5) Growth: Should be focused on holding best available growing business in the country.
 
 Instead of doing speculation and trying to invest in risky and speculative securities/assets a humble investor should look for above 5 characteristics in ETFs and invest in them for very very long term. A humble investor’s ETF must have very low total expense ration <= 0.15 with absolutely no enter and exit fees(loads) such that the humble investor makes most of the earned money and not the investment management firm. It should also be passively managed with full-replication approach whenever possible and track a proven solid index which is at least 10 years old and avoid new experimental risky indices which are not proven yet. Please note that the entire gain in the U.S. stock-market since 1926 is attributable to only 4% of the stocks thats means combined 96% listed stocks are losers(only match treasury bill return) in long term in this brutal competitive world. A humble investor should only rely on time tested and proven indices and avoid getting trapped into marketing gimmicks of investment management firms. Passively managed ETFs helps us to easily stick with our chosen investment philosophy and avoids human emotion trigerred mistakes and improve tax efficiency by avoiding frequent portfolio turn overs. Passively managed index replicates nature's law of survival of fittest and underperforming businesses are automaticaly removed from the index. A humble investor should avoid actively managed funds because actively managed funds always lose their luster and underperform their respective passive benchmark index over long run because of high costs, genuinely unskilled professional managers, human emotional mistakes of changing fund managers etc. Short term out performance by an active manager is 100% attributable to luck, infact it requires minimum 22 years of consistent outperformance(compare to their respective passive benchmark index) to know if a professional manager is 90% skilled. Even best of the best active professionals and fund managers fail to beat their passive benchmark consistently over very long time. Active managed funds also eat up a large portion of investors profits because of high management fees and tax inefficiencies because of very frequent portfolio turn overs. A humble investor’s ETF should also be highly concentrated to avoid over diversification and should have higher allocations to growing and innovative sectors. A humble investor's ETF should be focused on holding best available innovative and growing businesses. Innovation and growth are key for long term success of any business so look for ETFs which are made of innovative and growing businesses.
 
