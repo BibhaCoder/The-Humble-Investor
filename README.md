@@ -87,12 +87,12 @@ For a successful, meaningful and fulfilling human life we should focus on nurtur
 
 24 character strengths to cultivate for being a better human  being for our spouse, kids, family, friends, society  and complete humanity are:
 
-1) Wisdom: Creativity, Curiosity, Judgement(Rational and Critical thinking), Love of learning, Perspective
-2) Courage: Bravery, Perserverence, Integrity(Honesty), Zest
-3) Humanity: Love, Kindness(Compassion), Social Intelligence(Emotional Intelligence)
-4) Justice: Teamwork, Fairness, Leadership
-5) Temperence: Self regulation, Prudence, Humility, Forgiveness
-6) Transendence: Appreciation of beauty and excellence, Gratitude, Hope, Humour and Sprituality
+1) **Wisdom**: Creativity, Curiosity, Judgement(Rational and Critical thinking), Love of learning, Perspective
+2) **Courage**: Bravery, Perserverence, Integrity(Honesty), Zest
+3) **Humanity**: Love, Kindness(Compassion), Social Intelligence(Emotional Intelligence)
+4) **Justice**: Teamwork, Fairness, Leadership
+5) **Temperence**: Self regulation, Prudence, Humility, Forgiveness
+6) **Transendence**: Appreciation of beauty and excellence, Gratitude, Hope, Humour and Sprituality
 
 To be successful in any professional work environment we needs character strengths like: Integrity, Social Intelligence(Emotional Intelligence), Teamwork, Fairness and Leadership. Similarly to be successful in business and investment world we need character strengths like: Judgement(Rational and Critical thinking), Love of learning, Bravery, Perserverence, Self regulation. To be successful in personal and social relationships we need character strengths like: Love, Compassion, Social Inteligence(Emotional Intelligence), Forgiveness, Humility.
 
