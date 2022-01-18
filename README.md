@@ -45,15 +45,15 @@ A humble investor does not need 20 to 50 non leveraged ETFs to get proper divers
 
 So far after evaluating hundreds of non leveraged ETFs for implementing the core strategy, I have found very few ETFs which consistently pass all the above mentioned 5 tests(low cost, passively managed, highly concentrated, innovation and growth) of humble investing and the ones which I like and appreciate for their extremely low cost, high concentration of growing and innovative businesses and their solid proven passive strategy for more than last 17+ years. Please note that there could be more equally good ETFs in the market which may consistently pass all above 5 tests and could be part of a humble investor's core portfolio. Below mentioned ETFs are just examples to demonstrate the strength of humble investing principles and it's consistent market beating performance. Following is their performance in comparison with VOO benchmark for implementing the core strategy:
 
-|  NAV return       | VOO         | VUG      |  MGK     | NDX          |
-| ------------------| ----        | ----     | ----     | ----         |
-| Net expense ratio | (0.03)      | (0.04)   | (0.07)   | (0.15)       |
-| 3 years           | 26.03       | 34.78    | 35.57    | 38.04        |
-| 5 years           | 18.43       | 24.78    | 25.66    | 28.37        |
-| 10 years          | 16.51       | 19.30    | 19.83    | 22.88        |
-| Since inception   |  8.21       | 12.13    | 14.02    | 13.80        |
-| Inception year    | (2000)      | (2004)   | (2007)   | (1986)       |
-| Category           |(Benchmark) | (Growth) | (Growth) | (Innovation) |
+|  NAV return       | VOO         | VUG      |  MGK     |  VGT         | NDX          |
+| ------------------| ----        | ----     | ----     |  ----        | ----         |
+| Net expense ratio | (0.03)      | (0.04)   | (0.07)   | (0.10)       | (0.15)       |
+| 3 years           | 26.03       | 34.78    | 35.57    | 41.43        | 38.04        |
+| 5 years           | 18.43       | 24.78    | 25.66    | 31.79        | 28.37        |
+| 10 years          | 16.51       | 19.30    | 19.83    | 23.67        | 22.88        |
+| Since inception   |  8.21       | 12.13    | 14.02    | 14.06        | 13.80        |
+| Inception year    | (2000)      | (2004)   | (2007)   | (2004)       | (1986)       |
+| Category           |(Benchmark) | (Growth) | (Growth) | (Innovation) | (Innovation) |
 
 A humble investor may also use [S&P broad sector specific](https://investor.vanguard.com/etf/list?assetclass=sec#/etf/asset-class/month-end-returns) non leveraged ETFs if they pass all above 5 tests and are primarily built around innovating and growing businesses. A humble investor should be careful and avoid new market trendy and catchy sector/subsector sepcifc ETFs whose underlying index/market sector is not yet proven to be growing and innovative and has not survived past 10 years of survival test. Many new catchy ETFs are created every year and close in couple of years because of not having underlying solid growing and innovative index. Approximately 10% of total ETFs close every year because of unskilled management and their flawed underlying index strategy so 10 years survival test of underlying index is very important. Most of the time very 1st test of low cost(total expense ratio <= 0.15) should be able to filter out majority of new unproven trendy sub-sector ETFs as most of these new trendy ETFs are marketing propagandas and primarily launched to make money from their high fees by looking trendy and attractive to new investors.
 
