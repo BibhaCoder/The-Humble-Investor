@@ -48,6 +48,7 @@ So far after evaluating hundreds of non leveraged ETFs for implementing the core
 |  NAV return       | VOO         | VUG      | MGK      | VGT          | NDX          |
 |  ----             | ----        | ----     | ----     | ----         | ----         |
 | Net expense ratio | (0.03)      | (0.04)   | (0.07)   | (0.10)       | (0.15)       |
+| PE ratio(Jan 2022)| (25.16)     | (36.67)  | (36.85)  | (33.16)      | (31.30)      |
 | 3 years           | 26.03       | 34.78    | 35.57    | 41.43        | 38.04        |
 | 5 years           | 18.43       | 24.78    | 25.66    | 31.79        | 28.37        |
 | 10 years          | 16.51       | 19.30    | 19.83    | 23.67        | 22.88        |
