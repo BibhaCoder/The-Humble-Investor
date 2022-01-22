@@ -76,10 +76,10 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 
 We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
 
-1) An enormous long life
-2) Filled with enormous health
-3) Filled with enormous wealth and
-4) Filled with enormous wisdom
+1) An **enormous long life**
+2) Filled with **enormous health**
+3) Filled with **enormous wealth** and
+4) Filled with **enormous wisdom**
 
 Cultivating growth mindset is very important for living a successful and meaningful life. Growth mindset has its roots in neuroscience and a concept called brain placiticity which means neurons connections between our brains changes with learning. Individuals with growth mindset believe that their talents can be developed through hard work, good strategies, and input from others. No one is born as a good or bad human being. Every human being has potential to use growth mindset and achieve excellence in their life. Please note that neuroscience has already confirmed that  nurture is more important than nature. Individuals with growth mindset believes that they can achieve anything in their life if they set mind on it. Growth mindset encourages learning process over results and gives more importance to enjoying the journey and the process of putting genuine wholehearted effort irrespective of whatever is end result. People with growth mindsets know that they can handle any situation and thrive in every environment which life throws on their way. Growth mindset people are problem solvers and in addition to improving their and their families life they also improve life's of other countless individuals.
 
