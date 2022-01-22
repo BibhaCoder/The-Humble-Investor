@@ -85,7 +85,7 @@ Cultivating growth mindset is very important for living a successful and meaning
 
 For a successful, meaningful and fulfilling human life we should focus on nurturing and cultivating **Growth Mindset** and all 24 human **Character Strengths** to be a better human for our spouse, kids, family, friends and our society in every aspect. Every human being is special and unique with respect to their signature character strengths. Character strength has its roots in science of positive psychology which gives more importance to nurturing what is best about human beings across different human cultures and societies. My personal signature character strengths are: judgment(rational and critical thinking), love of learning, bravery, perserverence(resilience and grit), zest, kindness(compassion), social intelligence, leadership, self regulation, humility, gratitude and sprituality.  
 
-24 character strengths to cultivate for being a better human  being for our spouse, kids, family, friends, society  and complete humanity are:
+**24 Character Strengths** to cultivate for being a better human  being for our spouse, kids, family, friends, society  and complete humanity are:
 
 1) **Wisdom**: Creativity, Curiosity, Judgement(Rational and Critical thinking), Love of learning, Perspective
 2) **Courage**: Bravery, Perserverence, Integrity(Honesty), Zest
@@ -96,7 +96,7 @@ For a successful, meaningful and fulfilling human life we should focus on nurtur
 
 To be successful in any professional work environment we needs character strengths like: Integrity, Social Intelligence(Emotional Intelligence), Teamwork, Fairness and Leadership. Similarly to be successful in business and investment world we need character strengths like: Judgement(Rational and Critical thinking), Love of learning, Bravery, Perserverence, Self regulation. To be successful in personal and social relationships we need character strengths like: Love, Compassion, Social Inteligence(Emotional Intelligence), Forgiveness, Humility.
 
-The secret of a successful and fulfilling life is to achieve a healthy balance between various elements, thoughts and philosophies available in the universe. As the earth's balanced distance(not too far and not too close) from the sun ensures flourishing of diverse life and ecosystem on earth, similarly a healthy balance between dark matter and dark energy ensures survival of our very own universe. Every star in our universe shines because of the balance between its massive gravity crushing its core and nuclear fusion in the core trying to blow it up. Similarly for a successful and fulfilling like we need to maintain a healthy balance in our life and avoid extremes of anything.
+The secret of a successful and fulfilling life is to achieve a **healthy balance** between various elements, thoughts and philosophies available in the universe. As the earth's balanced distance(not too far and not too close) from the sun ensures flourishing of diverse life and ecosystem on earth, similarly a healthy balance between dark matter and dark energy ensures survival of our very own universe. Every star in our universe shines because of the balance between its massive gravity crushing its core and nuclear fusion in the core trying to blow it up. Similarly for a successful and fulfilling like we need to maintain a healthy balance in our life and avoid extremes of anything.
 
 To be a good human being for our spouse, kids, family, friends and society I found learning and applying these principles in our life from following books very helpful:
 
