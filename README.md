@@ -27,7 +27,7 @@ Successful investing is an intellectual field of education and analysis. Trying 
 
 3) Common stocks and uncommon profit: Phil fisher
 
-After reading above 3 book I have found that in modern world the field of stock investing must be dealt with humility and simplicity. A humble investor to look for following 5 key characteristics(tests) in an ETF to achieve long term market beating(VOO/VTI benchmark) returns:
+After reading above 3 book I have found that in modern world the field of stock investing must be dealt with humility and simplicity. A humble investor to look for following 5 key characteristics(tests) in an ETF for implementing a **core strategy** to achieve long term market beating(VOO/VTI benchmark) returns:
 
 1) **Low Cost**: Total expense ration must be <= 0.15 and absolutely no enter/exit load fees and no commissions.
 
