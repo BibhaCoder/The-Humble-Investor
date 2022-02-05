@@ -10,7 +10,7 @@ __________________
 An investing principle and worldly wisdom for small individual common investors to achieve financial independence and live a fulfilling life.
 ______________________
 
-Please note that always the best investment is investment in our personal well-being, skills development and in our mental and physical health. No investment in the world can match the returns of investing in our well-being and inturn achieving an enormous long life filled with enormous health, wealth and wisdom. Following are 5 basic fundamental concepts to master for our mental and physical health and wellbeing:
+Please note that always the best investment is investment in our personal well-being, skills development and in our mental and physical health. No investment in the world can match the returns of investing in our skills development, well-being and inturn achieving an enormous long life filled with enormous health, wealth and wisdom. Following are 5 basic fundamental concepts to master for our mental and physical health and wellbeing:
 1) **Mindfulness**: Daily practice of mindfulness meditation can help to reduce anxiety and stress and boost our everyday cognitive abilities and make us a better person by cultivating empathy and compassion towards ourselves and others.
 2) **Activity**: Stay active and do at least one hour of daily physical activity like walking, swimming, running, cycling, yoga, playing our favorite sports, excercise in gym etc.
 3) **Food**: We are result of what we eat so chose carefully what to eat. Primarily fresh healthy plants, fruits, nuts, whole grains and vegetables based food in small portions.
