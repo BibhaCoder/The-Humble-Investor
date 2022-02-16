@@ -57,7 +57,7 @@ So far after evaluating hundreds of non leveraged ETFs for implementing the core
 
 A humble investor should be careful and avoid new market trendy and catchy sector/subsector sepcifc ETFs whose underlying index/market sector is not yet proven to be growing and innovative and has not survived past 10 years of survival test. Many new catchy ETFs are created every year and close in next couple of years because of not having underlying strong fundamentals. Approximately 10% of total ETFs close every year because of unskilled management and their flawed underlying index strategy so 10 years survival test of underlying index is very important. Most of the time very 1st test of low cost(total expense ratio <= 0.15) should be able to filter out majority of new unproven trendy sub-sector ETFs as most of these new trendy ETFs are marketing propagandas and primarily launched to make money from their high fees by looking trendy and attractive to new investors.
 
-A humble investor may also employ **Core(80%)** and **Alpha(20%)** strategy. **Core strategy** consists of buying and holding forever two non leveraged ETFs selected based on above 5 principles. **Alpha strategy** may consist of a safe and solid 3x S&P 500 index leveraged ETF to boost the long term returns with **long term** 200 days daily simple moving average and VIX(CBOE Volatility Index) based cash leveraged rotation strategy(**long term 200-d V-CLRS**) to filter out volatility. Long term 200-d CLRS rotation strategy is based on following 2 simple rules:
+A humble investor may also employ **Core(80%)** and **Alpha(20%)** strategy. **Core strategy** consists of buying and holding forever two non leveraged ETFs selected based on above 5 principles. **Alpha strategy** may consist of a safe and solid 3x S&P 500 index leveraged ETF to boost the long term returns with **long term** 200 days daily simple moving average and VIX(CBOE Volatility Index) based cash leveraged rotation strategy(**long term 200-d V-CLRS**) to filter out volatility. Long term 200-d V-CLRS rotation strategy is based on following 2 simple rules:
 1) **Rule no 1**: Buy and hold 3x leveraged S&P 500 ETF only if S&P 500 index closes above its 200 days simple moving average and VIX index closes below 25 to boost long term returns.
 2) **Rule no 2**: Rotate to cash whenever S&P 500 index closes below its 200 days simple moving average and VIX index closes above 25 to avoid volatility decay and manage risk.
 
@@ -67,16 +67,16 @@ As part of **alpha strategy** a humble investor may employ modern trading platfo
 
 In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing the alpha strategy and as per award winning research paper [Leverage for the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2741701) above mentioned alpha strategy has returned an alpha of 17.5% since 1928 in comparison to s&p 500 index and has avoided volatility decay of all past major market corrections. Using modern trading platforms stop loss sell and buy orders and UPRO ETF this alpha strategy can be easily passively implemented in IRA/HSA tax deferred account. As part of alpha passive automated long term 200-d CLRS strategy suppose for example if current S&P 500 index long term 200 days simple moving average is at SMA and today's S&P500 closing value is at CP and today's UPRO closing value is at V then passive automated stop loss sell order for next day may be kept at UPRO value  = floor(V - ((3 * ((CP - (SMA - (0.01 * SMA)) / CP))) * V)) OR similarly stop loss buy order for next day may be kept UPRO value = ceiling((V + (3 * (((SMA + (0.01 * SMA)) - CP) / CP))) * V) to have 1% of cushion around 200 days moving average to avoid getting whipsawed when S&P 500 index is moving around its 200 days simple moving avearge and cleanly rotate on the same day based on above 2 simple rules. Broad S&P 500 index based 3x leveraged ETF gets benefit from circuit breakers to avoid complete loss in any abnormal day. U.S. regulations have three levels of [circuit breakers](https://personal.vanguard.com/us/content/Funds/FundsToolsCircuitBreakersJSP.jsp), which are set to halt trading on all exchanges whenever S&P 500 Index drops 7%(level 1), 13%(level 2), and 20%(level 3) in all exchanges. These 3 levels of circuit breakers and automated stop loss sell order can help to rotate to cash whenever UPRO moves below 200 days moving average and avoid 100% loss. Following is performance of S&P 500  since OCT 1928 to DEC 2020 compare to S&P 500 3x levearge with and without 200 days moving average cash leveraged rotation strategy(200-d CLRS) for implementing the **alpha strategy**.
 
-|  Metric (1928 to 2020)  | S&P 500(buy and hold) | S&P 3x(buy and hold) | S&P 3x(200d-CLRS) |
-|  ----                   | ----                  | ----                 | ----              |
-| Annual Return           |  9.4                  | 16.2                 | 26.7              |
-| Annual Volatility       | 18.9                  | 56.7                 | 37.3              |
-| Sharpe Ratio            |  0.32                 | 0.22                 |  0.61             |
-| Sortino Ratio           |  0.57                 | 0.71                 |  1.05             |
-| Max Drawdown            | -86.2                 | -99.9                | -92.2             |
-| Beta                    | 1                     | 3                    | 1.3               |
-| Annual Alpha            | 0.0                   | -1                   | **17.5**          |
-| Average trades per year | 0                     | 0                    | 5                 |
+|  Metric (1928 to 2020)  | S&P 500(buy and hold) | S&P 3x(buy and hold) | S&P 3x(200d V-CLRS) |
+|  ----                   | ----                  | ----                 | ----                |
+| Annual Return           |  9.4                  | 16.2                 | 26.7                |
+| Annual Volatility       | 18.9                  | 56.7                 | 37.3                |
+| Sharpe Ratio            |  0.32                 | 0.22                 |  0.61               |
+| Sortino Ratio           |  0.57                 | 0.71                 |  1.05               |
+| Max Drawdown            | -86.2                 | -99.9                | -92.2               |
+| Beta                    | 1                     | 3                    | 1.3                 |
+| Annual Alpha            | 0.0                   | -1                   | **17.5**            |
+| Average trades per year | 0                     | 0                    | 5                   |
 
 We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
 
