@@ -60,7 +60,7 @@ A humble investor should be careful and avoid new market trendy and catchy secto
 A humble investor may also employ **Core(50%)** and **Alpha(50%)** strategy. **Core strategy** consists of buying and holding forever two non leveraged ETFs selected based on above 5 principles. **Alpha strategy** may consist of a safe and disciplined 3x S&P 500 index leveraged ETF to boost the long term returns with **long term** 200 days daily simple moving average based **S&P 500** **L**everaged **R**otation **S**trategy(**Long term SLRS**) to filter out volatility. Long term 200-d SLRS rotation strategy is based on following 2 simple rules:
 1) **Rule no 1**: Buy and hold 3x leveraged S&P 500 ETF(UPRO) whenever S&P 500 index closes above its 200 days simple moving average to boost long term returns.
 
-                                 **OR**
+  **OR**
 
 2) **Rule no 2**: Buy and hold unleveraged S&P 500 ETF(VOO) whenever S&P 500 index closes below its 200 days simple moving average to avoid volatility decay.
 
