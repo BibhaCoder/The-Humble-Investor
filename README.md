@@ -13,7 +13,7 @@ ______________________
 Please note that always the best investment is investment in our personal well-being, skills development and in our mental and physical health. No investment in the world can match the returns of investing in our skills development, well-being and inturn achieving an enormous long life filled with enormous health, wealth and wisdom. Following are 5 basic fundamental concepts to master for our mental and physical health and wellbeing:
 1) **Mindfulness**: Daily practice of mindfulness meditation can help to reduce anxiety and stress and boost our everyday cognitive abilities and make us a better person by cultivating empathy and compassion towards ourselves and others.
 2) **Activity**: Stay active and do at least one hour of daily physical activity like walking, swimming, running, cycling, yoga, playing our favorite sports, excercise in gym etc.
-3) **Diet**: We are result of what we eat so chose carefully what to eat. Primarily fresh healthy plants, fruits, nuts, whole grains and green leafy vegetables based diet in small portions.
+3) **Diet**: We are result of what we eat so chose carefully what to eat. Primarily fresh healthy plants, fruits, nuts, beans, lentils, whole grains and green leafy vegetables based diet in small portions.
 4) **Sleep**: Similar to being active getting enough eight to ten hours of good sleep is extremely important for our mind and body to recharge and work with full capabilities.
 5) **Gratitude**: Daily practice of gratitude can prevent hedonic adaptations of life and keep us focused on living in the moment and enjoying every moment of life without worrying too much about future and make us magnanimous person.
 
