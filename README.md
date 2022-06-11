@@ -32,7 +32,7 @@ After reading above 3 book I have found that in modern world the field of stock 
 
 1) ***L*ow Cost**: Total expense ration must be <= 0.15 and absolutely no enter/exit load fees and no commissions.
 
-2) ***O*ptimally Passively Managed**: Track a proven market cap weighted index which is at least a decade old(**survival test**) and benefit from natural selection of survival of fittest.
+2) ***O*ptimally Passively Managed**: Track a proven market cap weighted major stock index which is at least a decade old(**survival test**) and benefit from natural selection of survival of fittest.
 
 3) ***G*rowth**: Focused on holding best available **fundamentally strong growing** business in the country with **reasonable** trailing 12 months **PE ratio** in comparison to VOO.
 
