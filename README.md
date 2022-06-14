@@ -103,15 +103,6 @@ To be successful in any professional work environment we needs character strengt
 
 The secret of a successful and fulfilling life is to achieve a **healthy balance** between various elements, thoughts and philosophies available in the universe. As the earth's balanced distance(not too far and not too close) from the sun ensures flourishing of diverse life and ecosystem on earth, similarly a healthy balance between dark matter and dark energy ensures survival of our very own universe. Every star in our universe shines because of the balance between its massive gravity crushing its core and nuclear fusion in the core trying to blow it up. Similarly for a successful and fulfilling life we need to maintain a healthy balance in our life and avoid extremes of anything.
 
-To be a good human being for our spouse, kids, family, friends and society I found learning and applying these principles in our life from following books very helpful:
-
-1) The Art of Happiness: 14th Dalai Lama and Howard C. Cutler
-2) The Science of Well-Being: by Laurie Santos(Yale University online course)
-3) Nonviolent Communication: A Language of Life: by Marshall B. Rosenberg PhD 
-4) How to Win Friends & Influence People: by Dale Carnegie
-5) Mindset: The New Psychology of Success: by Carol S. Dweck PhD
-6) Grit: The Power of Passion and Perseverance: by Angela Duckworth
-
 Please note that in the field of investing high priests(hedge funds, active professional fund money managers, investment management firms etc.) have no edge over common people if common people can employ the above mentioned principles of humble investing with proper discipline. By following above simple principles of humble investing small common investors can easily achieve financial independence by becoming millionaires and billionaires over long time of investment horizon instead of making fund managers and investment management firms rich who are already filthy rich. Please note that the less we pay for investing the more we earn at the end for ourself. Primary goal of investment management industry should be to add value to thier society by making more and more people financially independent but today's majority of active fund management does exactly the opposite by underperforming their respective benchmark index and charging humongous fees for example 1% fee over 40 years could eat up 25% of total investment results. There is so much noise, nonsense and distractions every day on TV, investing business news, internet etc. that can easily mislead small common investors to make huge mistakes and destroy their wealth. The principles of humble investing protects small common investors from outside noise and keep them focused for very long term and inturn achieve financial independence and live an enormous long life filled with enormous health, wealth and wisdom.
 
 Copyright (c) 2017 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
