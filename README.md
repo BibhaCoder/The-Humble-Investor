@@ -75,9 +75,10 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 | 3 years                 | 14.30   | 30.12           |
 | 5 years                 | 11.88   | 26.80           |
 | 10 years                | 13.12   | 31.05           |
-| Since inception         |  7.34   | 26.84           |
 | Max drawdown            | -20.02  | -41.51          |
 | Best year               | 32.18   | 118.50          |
+| Since inception         |  13.34  | 26.84           |
+| Inception year          | (2011)  | (2009)          |
 
 We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
 
