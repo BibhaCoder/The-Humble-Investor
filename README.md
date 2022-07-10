@@ -70,7 +70,7 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 
 | NAV return              | VOO     | Alpha strategy  |
 |  ----                   | ----    | ----            |
-| Net expense ratio       | 0.04    | 0.91            |
+| Net expense ratio       | 0.03    | 0.91            |
 | Annual Volatility       | 18.9    | 37.3            |
 | 3 years                 | 14.30   | 30.12           |
 | 5 years                 | 11.88   | 26.80           |
