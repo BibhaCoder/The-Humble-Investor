@@ -68,16 +68,16 @@ As part of **alpha strategy** a humble investor may employ modern investing plat
 
 In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing the alpha strategy. Using modern investing platforms stop loss sell orders and UPRO ETF this alpha strategy can be easily passively implemented in IRA/HSA tax deferred account. As part of alpha passive automated long term strategy suppose for example if current S&P 500 index long term simple moving average is at SMA and today's S&P500 closing value is at CV and today's UPRO closing value is at U then passive automated stop loss sell order for next day may be kept at UPRO value  = ceiling (U - ((0.02 * (SMA / CV)) * U)) to cleanly rotate to unleveraged S&P 500 ETF(VOO) at slightly better value based on above 2 simple rules. Broad S&P 500 index based 3x leveraged ETF gets benefit from **circuit breakers** to avoid complete loss in any abnormal day. U.S. regulations have three levels of [circuit breakers](https://personal.vanguard.com/us/content/Funds/FundsToolsCircuitBreakersJSP.jsp), which are set to halt trading on all exchanges whenever S&P 500 Index drops 7%(level 1), 13%(level 2), and 20%(level 3) in all exchanges. These 3 levels of **circuit breakers** and automated **stop loss** sell order can help to rotate to unleveraged VOO whenever S&P 500 index moves below 210 days moving average and avoid 100% loss. Following is performance of **alpha strategy** in comparision to VOO benchmark derived from [portfolio visualizer](https://www.portfoliovisualizer.com/test-market-timing-model) back testing model:
 
-| NAV return              | VOO (buy and hold)    | Alpha strategy  |
-|  ----                   | ----                  | ----            |
-| Net expense ratio       |  0.04                 | 0.91            |
-| Annual Volatility       | 18.9                  | 37.3            |
-| 3 years                 | 14.30                 | 30.12           |
-| 5 years                 | 11.88                 | 26.80           |
-| 10 years                | 13.12                 | 31.05           |
-| Since inception         |  7.34                 | 26.84           |
-| Best year               | 32.18                 | 118.50          |
-| Max drawdown            | -20.02                | -41.51          |
+| NAV return              | VOO     | Alpha strategy  |
+|  ----                   | ----    | ----            |
+| Net expense ratio       | 0.04    | 0.91            |
+| Annual Volatility       | 18.9    | 37.3            |
+| 3 years                 | 14.30   | 30.12           |
+| 5 years                 | 11.88   | 26.80           |
+| 10 years                | 13.12   | 31.05           |
+| Since inception         |  7.34   | 26.84           |
+| Max drawdown            | -20.02  | -41.51          |
+| Best year               | 32.18   | 118.50          |
 
 We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
 
