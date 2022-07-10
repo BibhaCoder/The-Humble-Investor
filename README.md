@@ -75,7 +75,7 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 | 3 years                 | 14.30                 | 30.12                |
 | 5 years                 | 11.88                 | 26.80                |
 | 10 years                | 13.12                 | 31.05                |
-| Since inception         | 12.32                 | 26.84                |
+| Since inception         | 12.32                 | 27.84                |
 | Best year               | 32.18                 | 118.50               |
 | Max drawdown            | -20.02                | -41.51               |
 | Average trades per year | 0                     | 5                    |
