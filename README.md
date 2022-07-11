@@ -57,7 +57,7 @@ So far after evaluating hundreds of non leveraged ETFs for implementing the core
 | Max drawdown                 | -36.97      | -38.22   | -36.47   | -41.68       | -42.83    |
 | Best year                    | 32.18       | 40.17    | 40.99    | 54.45        | 61.74     |
 | Since inception              |  9.86       | 11.29    | 12.95    | 13.80        | 13.27     |
-| Start year                   | (1928)      | (2004)   | (2007)   | (1986)       | (2004)    |
+| Inception year               | (1928)      | (2004)   | (2007)   | (1986)       | (2004)    |
 
 A humble investor may also employ [S&P broad sector sepcifc ETF](https://investor.vanguard.com/etf/list?assetclass=sec#/etf/asset-class/month-end-returns) in core portfolio if its built around fundamentally strong innovative and growing businesses and passes all above 5 tests consistently. A humble investor should be careful and avoid new market trendy, thematic and catchy subsector sepcifc ETFs whose underlying index/market sector is not yet proven to be growing and innovative and has not survived past 10 years of survival test. Many new catchy and thematic ETFs are created every year and close in next couple of years because of not having underlying strong fundamentals. Approximately 10% of total ETFs close every year because of unskilled active management and their flawed underlying index strategy so 10 years survival test of underlying index is very important. Most of the time very 1st test of low cost(total expense ratio <= 0.15) should be able to filter out majority of new unproven trendy sub-sector ETFs as most of these new trendy ETFs are marketing propagandas and primarily launched to make money from their high fees by looking trendy and attractive to new investors.
 
@@ -82,7 +82,7 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 | Max drawdown                 | -20.02  | -41.51          |
 | Best year                    | 32.18   | 118.50          |
 | Since inception              |  9.86   | 27.20           |
-| Start year                   | (1928)  | (2010)          |
+| Inception year               | (1928)  | (2010)          |
 
 We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
 
