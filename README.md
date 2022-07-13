@@ -53,18 +53,18 @@ A humble investor does not need 20 to 50 non leveraged ETFs to get proper divers
 
 So far after evaluating hundreds of non leveraged ETFs for implementing the core strategy, I have found very few ETFs which consistently pass all the above mentioned 5 tests(**LOGIC**) of humble investing and the ones which I like and appreciate for their extremely low cost, high concentration of fundamentally strong growing and innovative businesses and their solid proven passive strategy for more than last 17+ years to have high higher allocations to growing and innovative S&P sectors in various rotating market conditions. Please note that there could be more equally good ETFs in the market which may consistently pass all above 5 tests and could be part of a humble investor's core portfolio. Below mentioned ETFs are just examples to demonstrate the strength of humble investing principles and it's consistent market beating performance. Following is their basic fundamentals and performance in comparison with VOO benchmark for implementing the **core strategy**:
 
-|  NAV return                  | VOO         | VUG      | MGK      | NDX          | VGT       |
-|  ----                        | ----        | ----     | ----     | ----         | ----      |
-| Net expense ratio            | (0.03)      | (0.04)   | (0.07)   | (0.15)       | (0.10)    |
-| PE ratio(03/31/22)           | (20.00)     | (29.60)  | (29.90)  | (25.60)      | (25.30)   |
-| Annual historical volatility | 20.03       | 27.30    | 27.50    | 27.40        | 28.60     |
-| 3 years                      | 18.92       | 23.40    | 24.52    | 27.04        | 28.73     |
-| 5 years                      | 15.99       | 19.88    | 20.72    | 23.15        | 26.43     |
-| 10 years                     | 14.64       | 16.35    | 16.94    | 19.42        | 20.20     |
-| Max drawdown                 | -36.97      | -38.22   | -36.47   | -41.68       | -42.83    |
-| Best year                    | 32.18       | 40.17    | 40.99    | 54.45        | 61.74     |
-| Measurement start year       | (1928)      | (2004)   | (2007)   | (1986)       | (2004)    |
-| Since measurement start      |  9.86       | 11.29    | 12.95    | 13.80        | 13.27     |
+|  NAV return                  | VOO         | VUG         | MGK         | NDX          | VGT         |
+|  ----                        | ----        | ----        | ----        | ----         | ----        |
+| Net expense ratio            | (0.03)      | (0.04)      | (0.07)      | (0.15)       | (0.10)      |
+| PE ratio(03/31/22)           | (20.00)     | (29.60)     | (29.90)     | (25.60)      | (25.30)     |
+| Annual historical volatility | 20.03       | 27.30       | 27.50       | 27.40        | 28.60       |
+| 3 years                      | 18.92       | 23.40       | 24.52       | 27.04        | 28.73       |
+| 5 years                      | 15.99       | 19.88       | 20.72       | 23.15        | 26.43       |
+| 10 years                     | 14.64       | 16.35       | 16.94       | 19.42        | 20.20       |
+| Best year                    | 53.99(1933) | 40.17(2020) | 40.99(2020) | 101.95(1999) | 61.74(2009) |
+| Worst year                   | -43.34(1931)| -38.22(2008)| -36.47(2008)| -41.68(2008) | -42.83(2008)|
+| Measurement start year       | (1928)      | (2004)      | (2007)      | (1986)       | (2004)      |
+| Since measurement start      |  9.86       | 11.29       | 12.95       | 13.80        | 13.27       |
 
 A humble investor may also employ [S&P broad sector sepcifc ETF](https://investor.vanguard.com/etf/list?assetclass=sec#/etf/asset-class/month-end-returns) in core portfolio if its built around fundamentally strong innovative and growing businesses and passes all above 5 tests consistently. A humble investor should be careful and avoid new market trendy, thematic and catchy subsector sepcifc ETFs whose underlying index/market sector is not yet proven to be growing and innovative and has not survived past 10 years of survival test. Many new catchy and thematic ETFs are created every year and close in next couple of years because of not having underlying strong fundamentals. Approximately 10% of total ETFs close every year because of unskilled active management and their flawed underlying index strategy so 10 years survival test of underlying index is very important. Most of the time very 1st test of low cost(total expense ratio <= 0.15) should be able to filter out majority of new unproven trendy sub-sector ETFs as most of these new trendy ETFs are marketing propagandas and primarily launched to make money from their high fees by looking trendy and attractive to new investors.
 
@@ -78,18 +78,18 @@ As part of **alpha strategy** a humble investor may employ modern investing plat
 
 In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing the alpha strategy. Using modern investing platforms stop loss sell orders and UPRO ETF this alpha strategy can be easily passively implemented in IRA/HSA tax deferred account. As part of alpha passive automated long term strategy suppose for example if current S&P 500 index long term simple moving average is at SMA and today's S&P500 closing value is at CV and today's UPRO closing value is at U then passive automated stop loss sell order for next day may be kept at UPRO value  = ceiling (U - ((0.02 * (SMA / CV)) * U)) to cleanly rotate to unleveraged S&P 500 ETF(VOO) at slightly better value based on above 2 simple rules. Broad S&P 500 index based 3x leveraged ETF gets benefit from **circuit breakers** to avoid complete loss in any abnormal day. U.S. regulations have three levels of [circuit breakers](https://personal.vanguard.com/us/content/Funds/FundsToolsCircuitBreakersJSP.jsp), which are set to halt trading on all exchanges whenever S&P 500 Index drops 7%(level 1), 13%(level 2), and 20%(level 3) in all exchanges. These 3 levels of **circuit breakers** and automated **stop loss** sell order can help to rotate to unleveraged VOO whenever S&P 500 index moves below 210 days moving average and avoid 100% loss. Following is performance of **alpha strategy** in comparision to VOO benchmark derived from [portfolio visualizer](https://www.portfoliovisualizer.com/test-market-timing-model) back testing models:
 
-| NAV return                   | VOO     | Alpha strategy  |
-|  ----                        | ----    | ----            |
-| Net expense ratio            | (0.03)  | (0.91)          |
-| Average trades per year      | (0)     | (5)             |
-| Annual historical Volatility | 20.03   | 40.04           |
-| 3 years                      | 14.30   | 30.12           |
-| 5 years                      | 11.88   | 26.80           |
-| 10 years                     | 13.12   | 31.05           |
-| Max drawdown                 | -20.02  | -41.51          |
-| Best year                    | 32.18   | 118.50          |
-| Measurement start year       | (1928)  | (2010)          |
-| Since measurement start      |  9.86   | 27.20           |
+| NAV return                   | VOO         | Alpha strategy  |
+|  ----                        | ----        | ----            |
+| Net expense ratio            | (0.03)      | (0.91)          |
+| Average trades per year      | (0)         | (5)             |
+| Annual historical Volatility | 20.03       | 40.04           |
+| 3 years                      | 14.30       | 30.12           |
+| 5 years                      | 11.88       | 26.80           |
+| 10 years                     | 13.12       | 31.05           |
+| Best year                    | 53.99(1933) | 118.50          |
+| Worst year                   | -43.34(1931)| -41.51          |
+| Measurement start year       | (1928)      | (2010)          |
+| Since measurement start      |  9.86       | 27.20           |
 
 
 We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
