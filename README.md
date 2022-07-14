@@ -82,12 +82,12 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 |  ----                        | ----        | ----            |
 | Net expense ratio            | (0.03)      | (0.91)          |
 | Average trades per year      | (0)         | (5)             |
-| Annual historical Volatility | 20.03       | 40.04           |
+| Annual historical Volatility(6/30/22) | 20.03       | 40.04           |
 | 3 years                      | 14.30       | 30.12           |
 | 5 years                      | 11.88       | 26.80           |
 | 10 years                     | 13.12       | 31.05           |
 | Best year                    | 53.99(1933) | 118.50(2013)    |
-| Worst year                   | -43.34(1931)| -25.96(2022)    |
+| Worst year                   | -43.34(1931)| -42.96(2022)    |
 | Measurement start year       | (1928)      | (2010)          |
 | Since measurement start      |  9.86       | 27.20           |
 
