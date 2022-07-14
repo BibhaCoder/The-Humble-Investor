@@ -57,7 +57,7 @@ So far after evaluating hundreds of non leveraged ETFs for implementing the core
 |  ----                        | ----        | ----        | ----        | ----         | ----        |
 | Net expense ratio            | (0.03)      | (0.04)      | (0.07)      | (0.15)       | (0.10)      |
 | PE ratio(03/31/22)           | (20.00)     | (29.60)     | (29.90)     | (25.60)      | (25.30)     |
-| Annual historical volatility | 20.03       | 27.30       | 27.50       | 27.40        | 28.60       |
+| Annual historical volatility(06/30/22) | 20.03       | 27.30       | 27.50       | 27.40        | 28.60       |
 | 3 years                      | 18.92       | 23.40       | 24.52       | 27.04        | 28.73       |
 | 5 years                      | 15.99       | 19.88       | 20.72       | 23.15        | 26.43       |
 | 10 years                     | 14.64       | 16.35       | 16.94       | 19.42        | 20.20       |
