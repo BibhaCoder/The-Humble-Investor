@@ -91,7 +91,7 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 | Measurement start year       | (1928)      | (2010)          |
 | Since measurement start      |  9.86       | 27.20           |
 
-** Please note that actual expense ratio of alpha strategy will vary each year between 0.03(VOO) to 0.91(UPRO) depending upon how many days in a year the alpha strategy is invested in VOO vs UPRO. On average yearly expense ratio of alpha strategy should be around 0.64 considering 70% of time alpha strategy being invested in UPRO and 30% time alpha being invested in VOO.
+** Please note that actual expense ratio of alpha strategy will vary each year between 0.03(VOO) to 0.91(UPRO) depending upon how many days in a year the alpha strategy is invested in VOO vs UPRO. On average yearly expense ratio of alpha strategy should be around 0.64 considering 70% of time alpha strategy being invested in UPRO and 30% of time alpha being invested in VOO.
 
 We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
 
