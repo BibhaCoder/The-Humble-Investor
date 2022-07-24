@@ -57,6 +57,7 @@ So far after evaluating hundreds of non leveraged ETFs for implementing the core
 |  ----                        | ----        | ----        | ----        | ----         | ----        |
 | Net expense ratio            | (0.03)      | (0.04)      | (0.07)      | (0.15)       | (0.10)      |
 | PE ratio(03/31/22)           | (20.00)     | (29.60)     | (29.90)     | (25.60)      | (25.30)     |
+| Dividend yield (03/31/22)    | (1.31)      | (0.45)      | (0.42)      | (0.53)       | (0.64)      |
 | Annual historical volatility(06/30/22) | 20.03       | 27.30       | 27.50       | 27.40        | 28.60       |
 | 3 years                      | 18.92       | 23.40       | 24.52       | 27.04        | 28.73       |
 | 5 years                      | 15.99       | 19.88       | 20.72       | 23.15        | 26.43       |
@@ -82,6 +83,7 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 |  ----                        | ----        | ----            |
 | Net expense ratio            | (0.03)      | (0.64**)        |
 | PE ratio(03/31/22)           | (20.00)     | (20.00)         |
+| Dividend yield (03/31/22)    | (1.31)      | (0.49**)        |
 | Annual historical Volatility(6/30/22) | 20.03       | 40.04           |
 | 3 years                      | 14.30       | 30.12           |
 | 5 years                      | 11.88       | 26.80           |
@@ -91,7 +93,7 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 | Measurement start year       | (1928)      | (2010)          |
 | Since measurement start      |  9.86       | 27.20           |
 
-** Please note that actual expense ratio of alpha strategy will vary each year between 0.03(VOO) to 0.91(UPRO) depending upon how many days in a year the alpha strategy is invested in VOO vs UPRO. On average yearly expense ratio of alpha strategy should be around 0.64 considering 70% of time alpha strategy being invested in UPRO and 30% of time alpha being invested in VOO.
+** Please note that actual expense ratio of alpha strategy will vary each year between 0.03(VOO) to 0.91(UPRO) depending upon how many days in a year the alpha strategy is invested in VOO vs UPRO. On average yearly expense ratio of alpha strategy should be around 0.64 considering 70% of time alpha strategy being invested in UPRO and 30% of time alpha being invested in VOO. Similarly actual annual dividend yield of alpha strategy will vary between 0.15(UPRO dividend yield) and 1.31(VOO dividend yield) depending upon how many days in a year alpha strategy is invested in UPRO vs VOO.
 
 We should be very careful in chosing role models in our life. We should chose very carefully, who we want imitate in our life and pick the people whom we want to mimick very carefully. At the end life is much more than just plain earnign money. A successful human life consists of 4 key characteristics:
 
