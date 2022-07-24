@@ -64,9 +64,9 @@ So far after evaluating hundreds of non leveraged ETFs for implementing the core
 | 10 years                     | 14.64       | 16.35       | 16.94       | 19.42        | 20.20       |
 | Best year                    | 53.99(1933) | 40.17(2020) | 40.99(2020) | 101.95(1999) | 61.74(2009) |
 | Worst year                   | -43.34(1931)| -38.22(2008)| -36.47(2008)| -41.68(2008) | -42.83(2008)|
+| Max drawdown                 | -86.6(1929-1931)| -47.18(2007-2009)| -45.78(2007-2009)| -81.08(2000-2002)| -50.58(2007-2009)|
 | Measurement start year       | (1928)      | (2004)      | (2007)      | (1986)       | (2004)      |
-| Since measurement start      |  9.86       | 11.29       | 12.95       | 13.80        | 13.27       |
-| Average no of trades per year|  (0)        |  (0)        |  (0)        |  (0)         |  (0)        |
+| Since measurement start      | (9.86)      | (11.29)     | (12.95)     | (13.80)      | (13.27)     |
 
 A humble investor may also employ [S&P broad sector sepcifc ETF](https://investor.vanguard.com/etf/list?assetclass=sec#/etf/asset-class/month-end-returns) in core portfolio if its built around fundamentally strong innovative and growing businesses and passes all above 5 tests consistently. A humble investor should be careful and avoid new market trendy, thematic and catchy subsector sepcifc ETFs whose underlying index/market sector is not yet proven to be growing and innovative and has not survived past 10 years of survival test. Many new catchy and thematic ETFs are created every year and close in next couple of years because of not having underlying strong fundamentals. Approximately 10% of total ETFs close every year because of unskilled active management and their flawed underlying index strategy so 10 years survival test of underlying index is very important. Most of the time very 1st test of low cost(total expense ratio <= 0.15) should be able to filter out majority of new unproven trendy sub-sector ETFs as most of these new trendy ETFs are marketing propagandas and primarily launched to make money from their high fees by looking trendy and attractive to new investors.
 
@@ -90,10 +90,10 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 | 5 years                      | 11.88       | 26.80           |
 | 10 years                     | 13.12       | 31.05           |
 | Best year                    | 53.99(1933) | 118.50(2013)    |
-| Worst year                   | -43.34(1931)| -42.96(2022)    |
+| Worst year                   | -43.34(1931)| -19.32(2011)    |
+| Max drawdown                 | -86.6(1929-1931)| -43.51(2022)|
 | Measurement start year       | (1928)      | (2010)          |
 | Since measurement start      |  9.86       | 27.20           |
-| Average no of trades per year|  (0)        |  (4)            |
 
 ** Please note that actual expense ratio of alpha strategy will vary each year between 0.03(VOO) to 0.91(UPRO) depending upon how many days in a year the alpha strategy is invested in VOO vs UPRO. On average yearly expense ratio of alpha strategy should be around 0.64 considering 70% of time alpha strategy being invested in UPRO and 30% of time alpha being invested in VOO. Similarly actual annual dividend yield of alpha strategy will vary between 0.15(UPRO dividend yield) and 1.31(VOO dividend yield) depending upon how many days in a year alpha strategy is invested in UPRO vs VOO.
 
