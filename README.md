@@ -53,7 +53,7 @@ A humble investor does not need 20 to 50 non leveraged ETFs to get proper divers
 
 So far after evaluating hundreds of non leveraged ETFs for implementing the core strategy, I have found very few ETFs which consistently pass all the above mentioned 5 tests(**LOGIC**) of humble investing and the ones which I like and appreciate for their extremely low cost, high concentration of fundamentally strong growing and innovative businesses and their solid proven passive strategy for more than last 17+ years to have high higher allocations to growing and innovative S&P sectors in various rotating market conditions. Please note that there could be more equally good ETFs in the market which may consistently pass all above 5 tests and could be part of a humble investor's core portfolio. Below mentioned ETFs are just examples to demonstrate the strength of humble investing principles and it's consistent market beating performance. Following is their basic fundamentals and performance in comparison with VOO benchmark for implementing the **core strategy**:
 
-|  NAV return                  | VOO         | VUG         | MGK         | NDX          | VGT         |
+|  NAV return                  | VOO(S&P 500)| VUG         | MGK         | NDX          | VGT         |
 |  ----                        | ----        | ----        | ----        | ----         | ----        |
 | Net expense ratio            | (0.03)      | (0.04)      | (0.07)      | (0.15)       | (0.10)      |
 | PE ratio(03/31/22)           | (20.00)     | (29.60)     | (29.90)     | (25.60)      | (25.30)     |
@@ -78,7 +78,7 @@ As part of **alpha strategy** a humble investor may employ modern investing plat
 
 In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing the alpha strategy. Using modern investing platforms stop loss sell orders and UPRO ETF this alpha strategy can be easily passively implemented in IRA/HSA tax deferred account. As part of alpha passive automated long term strategy suppose for example if current S&P 500 index long term simple moving average is at SMA and today's S&P500 closing value is at CV and today's UPRO closing value is at U then passive automated stop loss sell order for next day may be kept at UPRO value  = ceiling (U - ((0.02 * (SMA / CV)) * U)) to cleanly rotate to unleveraged S&P 500 ETF(VOO) at slightly better value based on above 2 simple rules. Broad S&P 500 index based 3x leveraged ETF gets benefit from **circuit breakers** to avoid complete loss in any abnormal day. U.S. regulations have three levels of [circuit breakers](https://personal.vanguard.com/us/content/Funds/FundsToolsCircuitBreakersJSP.jsp), which are set to halt trading on all exchanges whenever S&P 500 Index drops 7%(level 1), 13%(level 2), and 20%(level 3) in all exchanges. These 3 levels of **circuit breakers** and automated **stop loss** sell order can help to rotate to unleveraged VOO whenever S&P 500 index moves below 210 days moving average and avoid 100% loss. Following is performance of **alpha strategy** in comparision to VOO benchmark derived from [portfolio visualizer](https://www.portfoliovisualizer.com/test-market-timing-model) back testing models:
 
-| NAV return                   | VOO         | Alpha strategy  |
+| NAV return                   | VOO(S&P 500)| Alpha strategy  |
 |  ----                        | ----        | ----            |
 | Net expense ratio            | (0.03)      | (0.64**)        |
 | PE ratio(03/31/22)           | (20.00)     | (20.00)         |
