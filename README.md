@@ -53,20 +53,20 @@ A humble investor does not need 20 to 50 non leveraged ETFs to get proper divers
 
 So far after evaluating hundreds of non leveraged ETFs for implementing the core strategy, I have found very few ETFs which consistently pass all the above mentioned 5 tests(**LOGIC**) of humble investing and the ones which I like and appreciate for their extremely low cost, high concentration of fundamentally strong growing and innovative businesses and their solid proven passive strategy for more than last 17+ years to have high higher allocations to growing and innovative S&P sectors in various rotating market conditions. Please note that there could be more equally good ETFs in the market which may consistently pass all above 5 tests and could be part of a humble investor's core portfolio. Below mentioned ETFs are just examples to demonstrate the strength of humble investing principles and it's consistent market beating performance. Following is their basic fundamentals and performance in comparison with VOO benchmark for implementing the **core strategy**:
 
-|  NAV return                  | VOO(S&P 500)| VUG         | MGK         | NDX          | VGT         |
-|  ----                        | ----        | ----        | ----        | ----         | ----        |
-| Net expense ratio            | (0.03)      | (0.04)      | (0.07)      | (0.15)       | (0.10)      |
-| PE ratio(03/31/22)           | (20.00)     | (29.60)     | (29.90)     | (25.60)      | (25.30)     |
-| Dividend yield (03/31/22)    | (1.31)      | (0.45)      | (0.42)      | (0.53)       | (0.64)      |
-| Annual historical volatility(06/30/22) | 20.03       | 27.30       | 27.50       | 27.40        | 28.60       |
-| 3 years                      | 18.92       | 23.40       | 24.52       | 27.04        | 28.73       |
-| 5 years                      | 15.99       | 19.88       | 20.72       | 23.15        | 26.43       |
-| 10 years                     | 14.64       | 16.35       | 16.94       | 19.42        | 20.20       |
-| Best year                    | 53.99(1933) | 40.17(2020) | 40.99(2020) | 101.95(1999) | 61.74(2009) |
-| Worst year                   | -43.34(1931)| -38.22(2008)| -36.47(2008)| -41.68(2008) | -42.83(2008)|
-| Max drawdown                 | -86.6(1929-1932)| -47.18(2007-2009)| -45.43(2007-2009)| -81.08(2000-2002)| -50.58(2007-2009)|
-| Measurement start year       | (1928)      | (2004)      | (2007)      | (1986)       | (2004)      |
-| Since measurement start      | (9.86)      | (11.29)     | (12.95)     | (13.80)      | (13.27)     |
+|  NAV return                            | VOO(S&P 500)     | VUG               | MGK               | NDX               | VGT               |
+|  ----                                  | ----             | ----              | ----              | ----              | ----              |
+| Net expense ratio                      | (0.03)           | (0.04)            | (0.07)            | (0.15)            | (0.10)            |
+| PE ratio(03/31/22)                     | (20.00)          | (29.60)           | (29.90)           | (25.60)           | (25.30)           |
+| Dividend yield (03/31/22)              | (1.31)           | (0.45)            | (0.42)            | (0.53)            | (0.64)            |
+| Annual historical volatility(06/30/22) | 20.03            | 27.30             | 27.50             | 27.40             | 28.60             |
+| 3 years                                | 18.92            | 23.40             | 24.52             | 27.04             | 28.73             |
+| 5 years                                | 15.99            | 19.88             | 20.72             | 23.15             | 26.43             |
+| 10 years                               | 14.64            | 16.35             | 16.94             | 19.42             | 20.20             |
+| Best year                              | 53.99(1933)      | 40.17(2020)       | 40.99(2020)       | 101.95(1999)      | 61.74(2009)       |
+| Worst year                             | -43.34(1931)     | -38.22(2008)      | -36.47(2008)      | -41.68(2008)      | -42.83(2008)      |
+| Max drawdown                           | -86.6(1929-1932) | -47.18(2007-2009) | -45.43(2007-2009) | -81.08(2000-2002) | -50.58(2007-2009) |
+| Measurement start year                 | (1928)           | (2004)            | (2007)            | (1986)            | (2004)            |
+| Since measurement start                | (9.86)           | (11.29)           | (12.95)           | (13.80)           | (13.27)           |
 
 A humble investor may also employ [S&P broad sector sepcifc ETF](https://investor.vanguard.com/etf/list?assetclass=sec#/etf/asset-class/month-end-returns) in core portfolio if its built around fundamentally strong innovative and growing businesses and passes all above 5 tests consistently. A humble investor should be careful and avoid new market trendy, thematic and catchy subsector sepcifc ETFs whose underlying index/market sector is not yet proven to be growing and innovative and has not survived past 10 years of survival test. Many new catchy and thematic ETFs are created every year and close in next couple of years because of not having underlying strong fundamentals. Approximately 10% of total ETFs close every year because of unskilled active management and their flawed underlying index strategy so 10 years survival test of underlying index is very important. Most of the time very 1st test of low cost(total expense ratio <= 0.15) should be able to filter out majority of new unproven trendy sub-sector ETFs as most of these new trendy ETFs are marketing propagandas and primarily launched to make money from their high fees by looking trendy and attractive to new investors.
 
