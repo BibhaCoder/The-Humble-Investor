@@ -64,7 +64,7 @@ So far after evaluating hundreds of non leveraged ETFs for implementing the core
 | 10 years                     | 14.64       | 16.35       | 16.94       | 19.42        | 20.20       |
 | Best year                    | 53.99(1933) | 40.17(2020) | 40.99(2020) | 101.95(1999) | 61.74(2009) |
 | Worst year                   | -43.34(1931)| -38.22(2008)| -36.47(2008)| -41.68(2008) | -42.83(2008)|
-| Max drawdown                 | -86.6(1929-1931)| -47.18(2007-2009)| -45.43(2007-2009)| -81.08(2000-2002)| -50.58(2007-2009)|
+| Max drawdown                 | -86.6(1929-1932)| -47.18(2007-2009)| -45.43(2007-2009)| -81.08(2000-2002)| -50.58(2007-2009)|
 | Measurement start year       | (1928)      | (2004)      | (2007)      | (1986)       | (2004)      |
 | Since measurement start      | (9.86)      | (11.29)     | (12.95)     | (13.80)      | (13.27)     |
 
@@ -90,8 +90,8 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 | 5 years                      | 11.88       | 26.80           |
 | 10 years                     | 13.12       | 31.05           |
 | Best year                    | 53.99(1933) | 118.50(2013)    |
-| Worst year                   | -43.34(1931)| -19.32(2011)    |
-| Max drawdown                 | -86.6(1929-1931)| -92.2(1929-1931)|
+| Worst year                   | -43.34(1931)| -49.62(1931)    |
+| Max drawdown                 | -86.6(1929-1932)| -92.2(1929-1932)|
 | Measurement start year       | (1928)      | (1928)          |
 | Since measurement start      |  9.86       | 26.88           |
 
