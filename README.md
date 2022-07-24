@@ -80,20 +80,20 @@ As part of **alpha strategy** a humble investor may employ modern investing plat
 
 In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing the alpha strategy. Using modern investing platforms stop loss sell orders and UPRO ETF this alpha strategy can be easily passively implemented in IRA/HSA tax deferred account. As part of alpha passive automated long term strategy suppose for example if current S&P 500 index long term simple moving average is at SMA and today's S&P500 closing value is at CV and today's UPRO closing value is at U then passive automated stop loss sell order for next day may be kept at UPRO value  = ceiling (U - ((0.02 * (SMA / CV)) * U)) to cleanly rotate to unleveraged S&P 500 ETF(VOO) at slightly better value based on above 2 simple rules. Broad S&P 500 index based 3x leveraged ETF gets benefit from **circuit breakers** to avoid complete loss in any abnormal day. U.S. regulations have three levels of [circuit breakers](https://personal.vanguard.com/us/content/Funds/FundsToolsCircuitBreakersJSP.jsp), which are set to halt trading on all exchanges whenever S&P 500 Index drops 7%(level 1), 13%(level 2), and 20%(level 3) in all exchanges. These 3 levels of **circuit breakers** and automated **stop loss** sell order can help to rotate to unleveraged VOO whenever S&P 500 index moves below 210 days moving average and avoid 100% loss. Following is performance of **alpha strategy** in comparision to VOO benchmark derived from [portfolio visualizer](https://www.portfoliovisualizer.com/test-market-timing-model) back testing models:
 
-| NAV return                   | VOO(S&P 500)| Alpha strategy  |
-|  ----                        | ----        | ----            |
-| Net expense ratio            | (0.03)      | (0.64**)        |
-| PE ratio(03/31/22)           | (20.00)     | (20.00)         |
-| Dividend yield (03/31/22)    | (1.31)      | (0.49**)        |
-| Annual historical Volatility(6/30/22) | 20.03       | 40.04           |
-| 3 years                      | 14.30       | 30.12           |
-| 5 years                      | 11.88       | 26.80           |
-| 10 years                     | 13.12       | 31.05           |
-| Best year                    | 53.99(1933) | 118.50(2013)    |
-| Worst year                   | -43.34(1931)| -49.62(1931)    |
-| Max drawdown                 | -86.6(1929-1932)| -92.2(1929-1932)|
-| Measurement start year       | (1928)      | (1928)          |
-| Since measurement start      |  9.86       | 26.88           |
+| NAV return                            | VOO(S&P 500)     | Alpha strategy   |
+|  ----                                 | ----             | ----             |
+| Net expense ratio                     | (0.03)           | (0.64**)         |
+| PE ratio(03/31/22)                    | (20.00)          | (20.00)          |
+| Dividend yield (03/31/22)             | (1.31)           | (0.49**)         |
+| Annual historical Volatility(6/30/22) | 20.03            | 40.04            |
+| 3 years                               | 14.30            | 30.12            |
+| 5 years                               | 11.88            | 26.80            |
+| 10 years                              | 13.12            | 31.05            |
+| Best year                             | 53.99(1933)      | 118.50(2013)     |
+| Worst year                            | -43.34(1931)     | -49.62(1931)     |
+| Max drawdown                          | -86.6(1929-1932) | -92.2(1929-1932) |
+| Measurement start year                | (1928)           | (1928)           |
+| Since measurement start               | (9.86)           | 26.88            |
 
 ** Please note that actual expense ratio of alpha strategy will vary each year between 0.03(VOO) to 0.91(UPRO) depending upon how many days in a year the alpha strategy is invested in VOO vs UPRO. On average yearly expense ratio of alpha strategy should be around 0.64 considering 70% of time alpha strategy being invested in UPRO and 30% of time alpha being invested in VOO. Similarly actual annual dividend yield of alpha strategy will vary between 0.15(UPRO dividend yield) and 1.31(VOO dividend yield) depending upon how many days in a year alpha strategy is invested in UPRO vs VOO.
 
