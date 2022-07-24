@@ -93,7 +93,7 @@ In today's market leveraged ETF UPRO (3x S&P 500) can be used for implementing t
 | Worst year                            | -43.34(1931)     | -49.62(1931)     |
 | Max drawdown                          | -86.6(1929-1932) | -92.2(1929-1932) |
 | Measurement start year                | (1928)           | (1928)           |
-| Since measurement start               | (9.86)           | 26.88            |
+| Since measurement start               | (9.86)           | (27.20)          |
 
 ** Please note that actual expense ratio of alpha strategy will vary each year between 0.03(VOO) to 0.91(UPRO) depending upon how many days in a year the alpha strategy is invested in VOO vs UPRO. On average yearly expense ratio of alpha strategy should be around 0.64 considering 70% of time alpha strategy being invested in UPRO and 30% of time alpha being invested in VOO. Similarly actual annual dividend yield of alpha strategy will vary between 0.15(UPRO dividend yield) and 1.31(VOO dividend yield) depending upon how many days in a year alpha strategy is invested in UPRO vs VOO.
 
