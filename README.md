@@ -4,6 +4,9 @@ The Humble Investor
 Copyright (c) 2017 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ---------------------------------------------------------------------------------
 
+This paper can also be found @ SSRN paper : [The Humble Investor](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4177360).
+------------
+
 Please note this is NOT a professional investment or medical advice and investor’s might lose money in securities market in short term. This is only for education and information purposes.
 __________________
 
