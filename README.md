@@ -8,6 +8,8 @@ Please note this is NOT a professional investment or medical advice and investor
 __________________
 
 An investing principle and worldly wisdom for small individual common investors to achieve financial independence and live a fulfilling life.
+
+Contrary to popular belief that passive investing is only to achieve average returns this paper suggests time tested methods for achieving market beating returns using optimal passive investing strategy and living a long life filled with health, wealth and wisdom.
 ______________________
 
 Please note that always the best investment is investment in our personal well-being, skills development and in our mental and physical health. No investment in the world can match the returns of investing in our skills development, well-being and inturn achieving an enormous long life filled with enormous health, wealth and wisdom. Following are 5 basic fundamental concepts(keyword **AWARE**) to master for our mental and physical health and wellbeing:
