@@ -35,7 +35,7 @@ Successful investing is an intellectual field of education and analysis. Trying 
 
 After reading above 3 book I have found that in modern world the field of stock investing must be dealt with humility and simplicity. A humble investor to look for following 5 key characteristics(keyword **LOGIC**) in an ETF for implementing a **core strategy** to achieve long term market beating(VOO/VTI benchmark) returns:
 
-1) ***L*ow Cost**: Total expense ration must be <= 0.15 and absolutely no enter/exit load fees and no commissions.
+1) ***L*ow Cost**: Total expense ratio must be <= 0.15 and absolutely no enter/exit load fees and no commissions.
 
 2) ***O*ptimally Passively Managed**: Track a proven market cap weighted major broad optimal stock index which is at least a decade old(**survival test**) and benefit from natural selection of survival of fittest.
 
